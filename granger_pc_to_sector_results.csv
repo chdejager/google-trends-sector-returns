@@ -1,133 +1,133 @@
 direction,target_type,target,pc_count,lags,F,pvalue,nobs,df_num,df_den
-PCs -> target,raw_sector_return,Materials,5,1,0.4345679990597209,0.8236246502257559,119,5,112
-PCs -> target,raw_sector_return,Communication Services,5,1,0.7243829787878471,0.6069441197573004,94,5,87
-PCs -> target,raw_sector_return,Energy,5,1,0.927598748157053,0.4659746893122031,119,5,112
-PCs -> target,raw_sector_return,Financials,5,1,0.2414846635811969,0.943241075526903,119,5,112
-PCs -> target,raw_sector_return,Industrials,5,1,0.18297193668744594,0.9685137781056735,119,5,112
-PCs -> target,raw_sector_return,Technology,5,1,0.7763791213554864,0.568742894824363,119,5,112
-PCs -> target,raw_sector_return,Consumer Staples,5,1,0.28999753709420956,0.9176553076922331,119,5,112
-PCs -> target,raw_sector_return,Real Estate,5,1,0.5114363559736361,0.7671224424758719,119,5,112
-PCs -> target,raw_sector_return,Utilities,5,1,0.22243712703595478,0.952189026846997,119,5,112
-PCs -> target,raw_sector_return,Health Care,5,1,0.20331724058943274,0.9604850579815045,119,5,112
-PCs -> target,raw_sector_return,Consumer Discretionary,5,1,0.3601387123242437,0.8747420558104014,119,5,112
-PCs -> target,raw_sector_return,Materials,5,2,0.5044779283094091,0.8835311510905978,118,10,105
-PCs -> target,raw_sector_return,Communication Services,5,2,1.0361977311944297,0.4213919564905053,93,10,80
-PCs -> target,raw_sector_return,Energy,5,2,0.9671658217104996,0.47640026020046555,118,10,105
-PCs -> target,raw_sector_return,Financials,5,2,0.425517421924107,0.9313327157704414,118,10,105
-PCs -> target,raw_sector_return,Industrials,5,2,0.2883308138900942,0.9825413358085648,118,10,105
-PCs -> target,raw_sector_return,Technology,5,2,0.9151565988635387,0.5223214593147584,118,10,105
-PCs -> target,raw_sector_return,Consumer Staples,5,2,0.7762322231243195,0.6513135687556812,118,10,105
-PCs -> target,raw_sector_return,Real Estate,5,2,1.1335785051836311,0.34462168032228097,118,10,105
-PCs -> target,raw_sector_return,Utilities,5,2,0.31290232077424646,0.9763342506067851,118,10,105
-PCs -> target,raw_sector_return,Health Care,5,2,0.32491448791570754,0.9728488702867731,118,10,105
-PCs -> target,raw_sector_return,Consumer Discretionary,5,2,0.7109825164924414,0.7123850314368446,118,10,105
-PCs -> target,raw_sector_return,Materials,10,1,0.5059202684416374,0.8826274643574544,119,10,107
-PCs -> target,raw_sector_return,Communication Services,10,1,1.4834888518664044,0.16043471567189072,94,10,82
-PCs -> target,raw_sector_return,Energy,10,1,0.9592099658509409,0.48318871931832863,119,10,107
-PCs -> target,raw_sector_return,Financials,10,1,1.1175937491337375,0.3559231613205091,119,10,107
-PCs -> target,raw_sector_return,Industrials,10,1,0.6065811774816835,0.8052817403897399,119,10,107
-PCs -> target,raw_sector_return,Technology,10,1,0.867508366857274,0.5657717065705128,119,10,107
-PCs -> target,raw_sector_return,Consumer Staples,10,1,0.22713588167738896,0.9931198947235708,119,10,107
-PCs -> target,raw_sector_return,Real Estate,10,1,0.4321896390589812,0.9278637680282014,119,10,107
-PCs -> target,raw_sector_return,Utilities,10,1,0.43034889745083327,0.9288493726258902,119,10,107
-PCs -> target,raw_sector_return,Health Care,10,1,0.2803364579966295,0.9843290613996657,119,10,107
-PCs -> target,raw_sector_return,Consumer Discretionary,10,1,0.4591936996659008,0.9125771866334538,119,10,107
-PCs -> target,raw_sector_return,Materials,10,2,0.997510776472234,0.4725767997620558,118,20,95
-PCs -> target,raw_sector_return,Communication Services,10,2,2.019533548522524,0.01651631125407906,93,20,70
-PCs -> target,raw_sector_return,Energy,10,2,1.238150611904155,0.24181130970293496,118,20,95
-PCs -> target,raw_sector_return,Financials,10,2,1.5749256068237594,0.07531426353114896,118,20,95
-PCs -> target,raw_sector_return,Industrials,10,2,1.0501772262901006,0.4142731683975069,118,20,95
-PCs -> target,raw_sector_return,Technology,10,2,0.7925788328180771,0.7162271865588953,118,20,95
-PCs -> target,raw_sector_return,Consumer Staples,10,2,0.660101991355299,0.8549423409169497,118,20,95
-PCs -> target,raw_sector_return,Real Estate,10,2,0.8468398444537861,0.6519527684895747,118,20,95
-PCs -> target,raw_sector_return,Utilities,10,2,0.5328039251113494,0.9454117453913182,118,20,95
-PCs -> target,raw_sector_return,Health Care,10,2,0.6253647091077258,0.8844846025146997,118,20,95
-PCs -> target,raw_sector_return,Consumer Discretionary,10,2,0.8915358442779509,0.5979679474158753,118,20,95
-PCs -> target,raw_sector_return,Materials,13,1,0.6689510122057737,0.7889414319874867,119,13,104
-PCs -> target,raw_sector_return,Communication Services,13,1,1.8665982442961564,0.04701014874075442,94,13,79
-PCs -> target,raw_sector_return,Energy,13,1,0.9304813382237155,0.5247196862902115,119,13,104
-PCs -> target,raw_sector_return,Financials,13,1,0.8401774263852927,0.6171494951987706,119,13,104
-PCs -> target,raw_sector_return,Industrials,13,1,0.6059495419272604,0.8443936196346267,119,13,104
-PCs -> target,raw_sector_return,Technology,13,1,0.8192569523313756,0.6388304641876945,119,13,104
-PCs -> target,raw_sector_return,Consumer Staples,13,1,0.25888661204382724,0.9955392793500963,119,13,104
-PCs -> target,raw_sector_return,Real Estate,13,1,0.3790843296288965,0.9737195633137524,119,13,104
-PCs -> target,raw_sector_return,Utilities,13,1,0.35870396707355834,0.9793507442162775,119,13,104
-PCs -> target,raw_sector_return,Health Care,13,1,0.2501565161095038,0.9962399905161082,119,13,104
-PCs -> target,raw_sector_return,Consumer Discretionary,13,1,0.40023844554652505,0.9668869167284223,119,13,104
-PCs -> target,raw_sector_return,Materials,13,2,1.141460603855181,0.3155259608973631,118,26,89
-PCs -> target,raw_sector_return,Communication Services,13,2,2.074160815147,0.009475703005936394,93,26,64
-PCs -> target,raw_sector_return,Energy,13,2,1.0583312474480524,0.40610530583197096,118,26,89
-PCs -> target,raw_sector_return,Financials,13,2,1.5869721625087247,0.057762793578879854,118,26,89
-PCs -> target,raw_sector_return,Industrials,13,2,1.0947451597474502,0.3647682576942821,118,26,89
-PCs -> target,raw_sector_return,Technology,13,2,0.7875852857394762,0.7514695759842596,118,26,89
-PCs -> target,raw_sector_return,Consumer Staples,13,2,0.8662364832429431,0.6515066604555855,118,26,89
-PCs -> target,raw_sector_return,Real Estate,13,2,0.8921487002769095,0.617374085973675,118,26,89
-PCs -> target,raw_sector_return,Utilities,13,2,0.7212929656983347,0.8268975258977682,118,26,89
-PCs -> target,raw_sector_return,Health Care,13,2,0.8922680741428672,0.617216369649221,118,26,89
-PCs -> target,raw_sector_return,Consumer Discretionary,13,2,0.9863531988621873,0.49423524466989044,118,26,89
-PCs -> target,sector_excess_return,Materials_excess,5,1,0.4365236876542354,0.8222244922613733,119,5,112
-PCs -> target,sector_excess_return,Communication Services_excess,5,1,1.626427519700097,0.16147204079210675,94,5,87
-PCs -> target,sector_excess_return,Energy_excess,5,1,0.8554541080540897,0.5135428085323382,119,5,112
-PCs -> target,sector_excess_return,Financials_excess,5,1,1.512506470163286,0.19155159694657867,119,5,112
-PCs -> target,sector_excess_return,Industrials_excess,5,1,0.09409881475142838,0.9929839211375979,119,5,112
-PCs -> target,sector_excess_return,Technology_excess,5,1,1.094479489801873,0.3674894279210916,119,5,112
-PCs -> target,sector_excess_return,Consumer Staples_excess,5,1,0.09373706025764593,0.9930465568164992,119,5,112
-PCs -> target,sector_excess_return,Real Estate_excess,5,1,0.24243262875539826,0.9427786635694256,119,5,112
-PCs -> target,sector_excess_return,Utilities_excess,5,1,0.09169203498543399,0.9933949466742004,119,5,112
-PCs -> target,sector_excess_return,Health Care_excess,5,1,0.2729351640944718,0.9270840245479399,119,5,112
-PCs -> target,sector_excess_return,Consumer Discretionary_excess,5,1,0.6165301619632769,0.6874352694003433,119,5,112
-PCs -> target,sector_excess_return,Materials_excess,5,2,1.7899263825023484,0.07125743896301162,118,10,105
-PCs -> target,sector_excess_return,Communication Services_excess,5,2,1.366830957004684,0.21089258338524453,93,10,80
-PCs -> target,sector_excess_return,Energy_excess,5,2,1.044009965869338,0.4123904496379461,118,10,105
-PCs -> target,sector_excess_return,Financials_excess,5,2,1.1110258684614869,0.3609449612273801,118,10,105
-PCs -> target,sector_excess_return,Industrials_excess,5,2,0.7456256212574952,0.6800903974056114,118,10,105
-PCs -> target,sector_excess_return,Technology_excess,5,2,1.9318856540401186,0.04868172128427613,118,10,105
-PCs -> target,sector_excess_return,Consumer Staples_excess,5,2,0.45822991226038573,0.9130726024984527,118,10,105
-PCs -> target,sector_excess_return,Real Estate_excess,5,2,0.7385295618477474,0.686737128312769,118,10,105
-PCs -> target,sector_excess_return,Utilities_excess,5,2,0.5778033774342161,0.8288479397446243,118,10,105
-PCs -> target,sector_excess_return,Health Care_excess,5,2,0.6696556565715078,0.7501627703926715,118,10,105
-PCs -> target,sector_excess_return,Consumer Discretionary_excess,5,2,1.3489147365116942,0.21461684260119204,118,10,105
-PCs -> target,sector_excess_return,Materials_excess,10,1,0.6451038292472575,0.7721068164335549,119,10,107
-PCs -> target,sector_excess_return,Communication Services_excess,10,1,2.2878242853554793,0.02019618260514951,94,10,82
-PCs -> target,sector_excess_return,Energy_excess,10,1,1.0916009211921023,0.37520919207969533,119,10,107
-PCs -> target,sector_excess_return,Financials_excess,10,1,1.837124212282019,0.06259064813055154,119,10,107
-PCs -> target,sector_excess_return,Industrials_excess,10,1,1.2056287166231292,0.29566362882701464,119,10,107
-PCs -> target,sector_excess_return,Technology_excess,10,1,1.7163083082115111,0.08617590407660476,119,10,107
-PCs -> target,sector_excess_return,Consumer Staples_excess,10,1,0.3913805068943047,0.9479809046857243,119,10,107
-PCs -> target,sector_excess_return,Real Estate_excess,10,1,0.23673279420626184,0.9918824964821146,119,10,107
-PCs -> target,sector_excess_return,Utilities_excess,10,1,0.574570217189241,0.8315198896476037,119,10,107
-PCs -> target,sector_excess_return,Health Care_excess,10,1,0.60631342355813,0.8055065982122159,119,10,107
-PCs -> target,sector_excess_return,Consumer Discretionary_excess,10,1,0.3940626359753762,0.946771227794374,119,10,107
-PCs -> target,sector_excess_return,Materials_excess,10,2,1.1208857194784505,0.3423473101766979,118,20,95
-PCs -> target,sector_excess_return,Communication Services_excess,10,2,1.7201345839448325,0.050398472669494425,93,20,70
-PCs -> target,sector_excess_return,Energy_excess,10,2,1.1519616484918376,0.31334952445063574,118,20,95
-PCs -> target,sector_excess_return,Financials_excess,10,2,1.4404635563673678,0.12303736109648004,118,20,95
-PCs -> target,sector_excess_return,Industrials_excess,10,2,1.3115981464192477,0.19111655979078873,118,20,95
-PCs -> target,sector_excess_return,Technology_excess,10,2,1.3206436126594152,0.18550238996310045,118,20,95
-PCs -> target,sector_excess_return,Consumer Staples_excess,10,2,0.5309480524166891,0.9463603694566021,118,20,95
-PCs -> target,sector_excess_return,Real Estate_excess,10,2,0.8737876892181311,0.6194355685019611,118,20,95
-PCs -> target,sector_excess_return,Utilities_excess,10,2,0.9528526480396309,0.5244695111553372,118,20,95
-PCs -> target,sector_excess_return,Health Care_excess,10,2,0.7626405102167658,0.7503911853868417,118,20,95
-PCs -> target,sector_excess_return,Consumer Discretionary_excess,10,2,1.0118406122312986,0.45636519298834965,118,20,95
-PCs -> target,sector_excess_return,Materials_excess,13,1,0.903129778299551,0.5523588660267988,119,13,104
-PCs -> target,sector_excess_return,Communication Services_excess,13,1,2.926161149083063,0.0016394793807728725,94,13,79
-PCs -> target,sector_excess_return,Energy_excess,13,1,1.0327093585254725,0.4264161346434154,119,13,104
-PCs -> target,sector_excess_return,Financials_excess,13,1,1.527266734397636,0.11983922436427685,119,13,104
-PCs -> target,sector_excess_return,Industrials_excess,13,1,1.3620653605282043,0.19054843162483825,119,13,104
-PCs -> target,sector_excess_return,Technology_excess,13,1,1.6482966913657422,0.08374001662104749,119,13,104
-PCs -> target,sector_excess_return,Consumer Staples_excess,13,1,0.3137608593227356,0.9887527341593333,119,13,104
-PCs -> target,sector_excess_return,Real Estate_excess,13,1,0.2178060901689481,0.9981442591454524,119,13,104
-PCs -> target,sector_excess_return,Utilities_excess,13,1,0.5734166053314671,0.8702300944321547,119,13,104
-PCs -> target,sector_excess_return,Health Care_excess,13,1,0.4811711399876602,0.9307866591041227,119,13,104
-PCs -> target,sector_excess_return,Consumer Discretionary_excess,13,1,0.35367682979312876,0.9806022571503126,119,13,104
-PCs -> target,sector_excess_return,Materials_excess,13,2,1.282154517581369,0.19504559148533981,118,26,89
-PCs -> target,sector_excess_return,Communication Services_excess,13,2,1.7234010714292334,0.04029926303407736,93,26,64
-PCs -> target,sector_excess_return,Energy_excess,13,2,0.9969975975002633,0.4807505068769168,118,26,89
-PCs -> target,sector_excess_return,Financials_excess,13,2,1.4033948349195666,0.12318075092232587,118,26,89
-PCs -> target,sector_excess_return,Industrials_excess,13,2,1.3152582117620213,0.1726887645260195,118,26,89
-PCs -> target,sector_excess_return,Technology_excess,13,2,1.24117460999839,0.22580480691406846,118,26,89
-PCs -> target,sector_excess_return,Consumer Staples_excess,13,2,0.6486827521405675,0.8949022185707127,118,26,89
-PCs -> target,sector_excess_return,Real Estate_excess,13,2,0.6875598209421893,0.8606453657656944,118,26,89
-PCs -> target,sector_excess_return,Utilities_excess,13,2,1.0382715682430237,0.42988199172539865,118,26,89
-PCs -> target,sector_excess_return,Health Care_excess,13,2,0.6643916572405889,0.8816877819891448,118,26,89
-PCs -> target,sector_excess_return,Consumer Discretionary_excess,13,2,1.0135560748738823,0.4600540598557897,118,26,89
+PCs -> target,raw_sector_return,Materials,5,1,0.43456877863142795,0.8236240925807874,119,5,112
+PCs -> target,raw_sector_return,Communication Services,5,1,0.7243832949706229,0.6069438881779133,94,5,87
+PCs -> target,raw_sector_return,Energy,5,1,0.9275979251328015,0.46597521551072574,119,5,112
+PCs -> target,raw_sector_return,Financials,5,1,0.24148490609830014,0.9432409574312511,119,5,112
+PCs -> target,raw_sector_return,Industrials,5,1,0.18297162852048496,0.9685138932551891,119,5,112
+PCs -> target,raw_sector_return,Technology,5,1,0.7763784931342397,0.56874334476001,119,5,112
+PCs -> target,raw_sector_return,Consumer Staples,5,1,0.28999629498444107,0.9176560100028401,119,5,112
+PCs -> target,raw_sector_return,Real Estate,5,1,0.5114365594903757,0.7671222897823003,119,5,112
+PCs -> target,raw_sector_return,Utilities,5,1,0.2224358696625932,0.9521895954556524,119,5,112
+PCs -> target,raw_sector_return,Health Care,5,1,0.20331791091860346,0.9604847796442708,119,5,112
+PCs -> target,raw_sector_return,Consumer Discretionary,5,1,0.3601386506398614,0.8747420961045247,119,5,112
+PCs -> target,raw_sector_return,Materials,5,2,0.5044766251357213,0.8835320415316676,118,10,105
+PCs -> target,raw_sector_return,Communication Services,5,2,1.0361961614897843,0.4213932056955458,93,10,80
+PCs -> target,raw_sector_return,Energy,5,2,0.967164991817771,0.47640097762880573,118,10,105
+PCs -> target,raw_sector_return,Financials,5,2,0.4255181517630272,0.9313323338620169,118,10,105
+PCs -> target,raw_sector_return,Industrials,5,2,0.2883300933339561,0.9825415001847968,118,10,105
+PCs -> target,raw_sector_return,Technology,5,2,0.9151588387917406,0.5223194433372881,118,10,105
+PCs -> target,raw_sector_return,Consumer Staples,5,2,0.776231798588258,0.6513139686346717,118,10,105
+PCs -> target,raw_sector_return,Real Estate,5,2,1.1335793030486088,0.3446211118656133,118,10,105
+PCs -> target,raw_sector_return,Utilities,5,2,0.31290268724595033,0.9763341488711572,118,10,105
+PCs -> target,raw_sector_return,Health Care,5,2,0.3249142261217362,0.9728489495562981,118,10,105
+PCs -> target,raw_sector_return,Consumer Discretionary,5,2,0.7109827220646745,0.712384841168382,118,10,105
+PCs -> target,raw_sector_return,Materials,10,1,0.5059199976684824,0.8826276500668147,119,10,107
+PCs -> target,raw_sector_return,Communication Services,10,1,1.4834903109159743,0.16043416096364058,94,10,82
+PCs -> target,raw_sector_return,Energy,10,1,0.9592101491176264,0.4831885596661224,119,10,107
+PCs -> target,raw_sector_return,Financials,10,1,1.1175941347108713,0.355922880209636,119,10,107
+PCs -> target,raw_sector_return,Industrials,10,1,0.6065803722336427,0.8052824167595576,119,10,107
+PCs -> target,raw_sector_return,Technology,10,1,0.8675081038449252,0.5657719498590645,119,10,107
+PCs -> target,raw_sector_return,Consumer Staples,10,1,0.22713569019283192,0.9931199180171139,119,10,107
+PCs -> target,raw_sector_return,Real Estate,10,1,0.4321898618497944,0.9278636482961472,119,10,107
+PCs -> target,raw_sector_return,Utilities,10,1,0.4303465552349057,0.9288506220922168,119,10,107
+PCs -> target,raw_sector_return,Health Care,10,1,0.2803366463981569,0.9843290213712745,119,10,107
+PCs -> target,raw_sector_return,Consumer Discretionary,10,1,0.4591932116468418,0.9125774766887391,119,10,107
+PCs -> target,raw_sector_return,Materials,10,2,0.9975103790751564,0.47257725262683903,118,20,95
+PCs -> target,raw_sector_return,Communication Services,10,2,2.0195333970161724,0.016516320785044423,93,20,70
+PCs -> target,raw_sector_return,Energy,10,2,1.2381503118519357,0.24181153585510887,118,20,95
+PCs -> target,raw_sector_return,Financials,10,2,1.5749219596313813,0.0753152943648086,118,20,95
+PCs -> target,raw_sector_return,Industrials,10,2,1.050178597576271,0.41427169882170833,118,20,95
+PCs -> target,raw_sector_return,Technology,10,2,0.792580507046687,0.7162252441623149,118,20,95
+PCs -> target,raw_sector_return,Consumer Staples,10,2,0.6601012285056095,0.8549430267176744,118,20,95
+PCs -> target,raw_sector_return,Real Estate,10,2,0.8468404120955663,0.651952085924644,118,20,95
+PCs -> target,raw_sector_return,Utilities,10,2,0.5328025587801548,0.9454124476971223,118,20,95
+PCs -> target,raw_sector_return,Health Care,10,2,0.6253622276628812,0.8844865887022404,118,20,95
+PCs -> target,raw_sector_return,Consumer Discretionary,10,2,0.8915353757462372,0.5979685139344413,118,20,95
+PCs -> target,raw_sector_return,Materials,13,1,0.6689507981290378,0.7889416308401803,119,13,104
+PCs -> target,raw_sector_return,Communication Services,13,1,1.866601753462745,0.04700965121021208,94,13,79
+PCs -> target,raw_sector_return,Energy,13,1,0.9304806591947871,0.5247203669612104,119,13,104
+PCs -> target,raw_sector_return,Financials,13,1,0.8401777078235854,0.6171492035952573,119,13,104
+PCs -> target,raw_sector_return,Industrials,13,1,0.6059481508576634,0.84439476872879,119,13,104
+PCs -> target,raw_sector_return,Technology,13,1,0.8192571286087333,0.6388302815577656,119,13,104
+PCs -> target,raw_sector_return,Consumer Staples,13,1,0.2588870030016858,0.9955392459565622,119,13,104
+PCs -> target,raw_sector_return,Real Estate,13,1,0.37908442022112365,0.9737195362445309,119,13,104
+PCs -> target,raw_sector_return,Utilities,13,1,0.3587021116764337,0.9793512159432401,119,13,104
+PCs -> target,raw_sector_return,Health Care,13,1,0.2501565008189935,0.9962399916666049,119,13,104
+PCs -> target,raw_sector_return,Consumer Discretionary,13,1,0.4002381405414296,0.9668870227360437,119,13,104
+PCs -> target,raw_sector_return,Materials,13,2,1.141459082358055,0.3155274916565236,118,26,89
+PCs -> target,raw_sector_return,Communication Services,13,2,2.074163375762773,0.009475600838497796,93,26,64
+PCs -> target,raw_sector_return,Energy,13,2,1.058330445748682,0.4061062424365281,118,26,89
+PCs -> target,raw_sector_return,Financials,13,2,1.586968132473828,0.057763792770813414,118,26,89
+PCs -> target,raw_sector_return,Industrials,13,2,1.0947462916520139,0.3647670115737893,118,26,89
+PCs -> target,raw_sector_return,Technology,13,2,0.7875868416979772,0.7514676886865821,118,26,89
+PCs -> target,raw_sector_return,Consumer Staples,13,2,0.8662369832343247,0.6515060047305656,118,26,89
+PCs -> target,raw_sector_return,Real Estate,13,2,0.8921502178700487,0.617372080949853,118,26,89
+PCs -> target,raw_sector_return,Utilities,13,2,0.7212926128857191,0.8268978969532325,118,26,89
+PCs -> target,raw_sector_return,Health Care,13,2,0.8922685577216711,0.6172157307418572,118,26,89
+PCs -> target,raw_sector_return,Consumer Discretionary,13,2,0.9863532892538869,0.4942351296043732,118,26,89
+PCs -> target,sector_excess_return,Materials_excess,5,1,0.43652104750338816,0.8222263840781392,119,5,112
+PCs -> target,sector_excess_return,Communication Services_excess,5,1,1.6264226190073987,0.1614733337832809,94,5,87
+PCs -> target,sector_excess_return,Energy_excess,5,1,0.8554536316805635,0.5135431318536141,119,5,112
+PCs -> target,sector_excess_return,Financials_excess,5,1,1.512500446842047,0.19155348020165577,119,5,112
+PCs -> target,sector_excess_return,Industrials_excess,5,1,0.09409538345974745,0.9929845166689718,119,5,112
+PCs -> target,sector_excess_return,Technology_excess,5,1,1.0944871784579606,0.36748527596438113,119,5,112
+PCs -> target,sector_excess_return,Consumer Staples_excess,5,1,0.09373587953754288,0.9930467607552836,119,5,112
+PCs -> target,sector_excess_return,Real Estate_excess,5,1,0.24243648628597525,0.942776778652063,119,5,112
+PCs -> target,sector_excess_return,Utilities_excess,5,1,0.0916908814510168,0.9933951404608068,119,5,112
+PCs -> target,sector_excess_return,Health Care_excess,5,1,0.2729372649793747,0.9270828911473862,119,5,112
+PCs -> target,sector_excess_return,Consumer Discretionary_excess,5,1,0.6165333212657578,0.6874328689927495,119,5,112
+PCs -> target,sector_excess_return,Materials_excess,5,2,1.7899183214595453,0.07125895996743749,118,10,105
+PCs -> target,sector_excess_return,Communication Services_excess,5,2,1.3668314262747414,0.2108923589899896,93,10,80
+PCs -> target,sector_excess_return,Energy_excess,5,2,1.04400971624758,0.41239064919597435,118,10,105
+PCs -> target,sector_excess_return,Financials_excess,5,2,1.1110305883235696,0.36094149191418384,118,10,105
+PCs -> target,sector_excess_return,Industrials_excess,5,2,0.7456199265996137,0.6800957365340985,118,10,105
+PCs -> target,sector_excess_return,Technology_excess,5,2,1.931887987659919,0.04868141257153304,118,10,105
+PCs -> target,sector_excess_return,Consumer Staples_excess,5,2,0.4582281253023323,0.9130736613894727,118,10,105
+PCs -> target,sector_excess_return,Real Estate_excess,5,2,0.738534360080194,0.6867326384268853,118,10,105
+PCs -> target,sector_excess_return,Utilities_excess,5,2,0.5778026403017833,0.8288485313859574,118,10,105
+PCs -> target,sector_excess_return,Health Care_excess,5,2,0.6696593904470897,0.7501594071590416,118,10,105
+PCs -> target,sector_excess_return,Consumer Discretionary_excess,5,2,1.3489230201205071,0.214612720542832,118,10,105
+PCs -> target,sector_excess_return,Materials_excess,10,1,0.6451013287965225,0.7721090184515308,119,10,107
+PCs -> target,sector_excess_return,Communication Services_excess,10,1,2.287824729319628,0.020196158292443762,94,10,82
+PCs -> target,sector_excess_return,Energy_excess,10,1,1.0916020895798615,0.3752083101875296,119,10,107
+PCs -> target,sector_excess_return,Financials_excess,10,1,1.8371263246090488,0.0625902938757908,119,10,107
+PCs -> target,sector_excess_return,Industrials_excess,10,1,1.2056260434546868,0.29566533864716316,119,10,107
+PCs -> target,sector_excess_return,Technology_excess,10,1,1.7163072687599945,0.08617613807122432,119,10,107
+PCs -> target,sector_excess_return,Consumer Staples_excess,10,1,0.3913807995690184,0.9479807735548883,119,10,107
+PCs -> target,sector_excess_return,Real Estate_excess,10,1,0.23673521678888723,0.9918821661322739,119,10,107
+PCs -> target,sector_excess_return,Utilities_excess,10,1,0.5745686483392315,0.8315211418771253,119,10,107
+PCs -> target,sector_excess_return,Health Care_excess,10,1,0.6063179571301949,0.805502791663534,119,10,107
+PCs -> target,sector_excess_return,Consumer Discretionary_excess,10,1,0.3940666865007104,0.9467693889024394,119,10,107
+PCs -> target,sector_excess_return,Materials_excess,10,2,1.1208836343086996,0.3423493114633816,118,20,95
+PCs -> target,sector_excess_return,Communication Services_excess,10,2,1.7201435604938542,0.050396833811161966,93,20,70
+PCs -> target,sector_excess_return,Energy_excess,10,2,1.151962808671856,0.31334847309741093,118,20,95
+PCs -> target,sector_excess_return,Financials_excess,10,2,1.4404673440712839,0.12303571147140147,118,20,95
+PCs -> target,sector_excess_return,Industrials_excess,10,2,1.3115963858285422,0.19111766559826224,118,20,95
+PCs -> target,sector_excess_return,Technology_excess,10,2,1.3206415385025148,0.18550366197069096,118,20,95
+PCs -> target,sector_excess_return,Consumer Staples_excess,10,2,0.5309461138457732,0.9463613547987014,118,20,95
+PCs -> target,sector_excess_return,Real Estate_excess,10,2,0.8737854997412882,0.6194382164197738,118,20,95
+PCs -> target,sector_excess_return,Utilities_excess,10,2,0.9528493512911881,0.5244734069219202,118,20,95
+PCs -> target,sector_excess_return,Health Care_excess,10,2,0.7626428664684948,0.7503885460570106,118,20,95
+PCs -> target,sector_excess_return,Consumer Discretionary_excess,10,2,1.011845850527786,0.4563593113261536,118,20,95
+PCs -> target,sector_excess_return,Materials_excess,13,1,0.9031273278938664,0.5523613603481063,119,13,104
+PCs -> target,sector_excess_return,Communication Services_excess,13,1,2.9261704639594974,0.0016394300350250173,94,13,79
+PCs -> target,sector_excess_return,Energy_excess,13,1,1.0327100734795216,0.42641548130395995,119,13,104
+PCs -> target,sector_excess_return,Financials_excess,13,1,1.5272678753450806,0.11983882764218212,119,13,104
+PCs -> target,sector_excess_return,Industrials_excess,13,1,1.3620596968868572,0.1905513509400823,119,13,104
+PCs -> target,sector_excess_return,Technology_excess,13,1,1.6482972266360778,0.0837398813387679,119,13,104
+PCs -> target,sector_excess_return,Consumer Staples_excess,13,1,0.31376074780805646,0.9887527527718905,119,13,104
+PCs -> target,sector_excess_return,Real Estate_excess,13,1,0.21780716140690579,0.9981442117875788,119,13,104
+PCs -> target,sector_excess_return,Utilities_excess,13,1,0.5734157023356127,0.870230781664102,119,13,104
+PCs -> target,sector_excess_return,Health Care_excess,13,1,0.48117392849178664,0.9307851361309684,119,13,104
+PCs -> target,sector_excess_return,Consumer Discretionary_excess,13,1,0.3536793403872073,0.9806016453492198,119,13,104
+PCs -> target,sector_excess_return,Materials_excess,13,2,1.2821529364402189,0.19504671161413675,118,26,89
+PCs -> target,sector_excess_return,Communication Services_excess,13,2,1.723412759522263,0.04029737413149998,93,26,64
+PCs -> target,sector_excess_return,Energy_excess,13,2,0.996999019198115,0.4807487148120676,118,26,89
+PCs -> target,sector_excess_return,Financials_excess,13,2,1.40339648008069,0.12317995279373244,118,26,89
+PCs -> target,sector_excess_return,Industrials_excess,13,2,1.3152538274443317,0.17269158274021035,118,26,89
+PCs -> target,sector_excess_return,Technology_excess,13,2,1.2411716305810006,0.22580717056682134,118,26,89
+PCs -> target,sector_excess_return,Consumer Staples_excess,13,2,0.6486840604741365,0.8949011542955234,118,26,89
+PCs -> target,sector_excess_return,Real Estate_excess,13,2,0.6875570828629882,0.8606479588429483,118,26,89
+PCs -> target,sector_excess_return,Utilities_excess,13,2,1.0382721623265188,0.42988127773203144,118,26,89
+PCs -> target,sector_excess_return,Health Care_excess,13,2,0.6643928350488267,0.8816867588022653,118,26,89
+PCs -> target,sector_excess_return,Consumer Discretionary_excess,13,2,1.0135585863693135,0.46005094851561756,118,26,89

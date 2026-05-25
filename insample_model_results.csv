@@ -1,0 +1,529 @@
+target_type,target,horizon,pc_count,model,nobs,r2,adj_r2,alpha,l1_ratio
+raw_sector_return,Materials,1,5,OLS,95,0.05076698865621876,-0.002560708610285678,,
+raw_sector_return,Materials,1,5,Ridge,95,0.008357111954022556,-0.047353162655302095,1000.0,
+raw_sector_return,Materials,1,5,Lasso,95,0.016365292656495667,-0.03889508416055509,0.01,
+raw_sector_return,Materials,1,5,ElasticNet,95,0.01515432915270254,-0.040174079321864786,0.1,0.1
+raw_sector_return,Communication Services,1,5,OLS,95,0.048510686678698844,-0.004943769125868691,,
+raw_sector_return,Communication Services,1,5,Ridge,95,0.0064195368843368295,-0.04939959025699259,1000.0,
+raw_sector_return,Communication Services,1,5,Lasso,95,0.0,-0.05617977528089879,0.021544346900318822,
+raw_sector_return,Communication Services,1,5,ElasticNet,95,0.0,-0.05617977528089879,0.03162277660168379,0.7
+raw_sector_return,Energy,1,5,OLS,95,0.057077120618506005,0.004103925147635579,,
+raw_sector_return,Energy,1,5,Ridge,95,0.007028893863311292,-0.048755999739873435,1000.0,
+raw_sector_return,Energy,1,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+raw_sector_return,Energy,1,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+raw_sector_return,Financials,1,5,OLS,95,0.01977374608781368,-0.035295144581410254,,
+raw_sector_return,Financials,1,5,Ridge,95,0.0022930813980698295,-0.05375786908518454,1000.0,
+raw_sector_return,Financials,1,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+raw_sector_return,Financials,1,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+raw_sector_return,Industrials,1,5,OLS,95,0.04648563356656965,-0.007082589266768968,,
+raw_sector_return,Industrials,1,5,Ridge,95,0.007151003981645698,-0.048627029502531505,1000.0,
+raw_sector_return,Industrials,1,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+raw_sector_return,Industrials,1,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+raw_sector_return,Technology,1,5,OLS,95,0.047207492618882574,-0.006320176335112837,,
+raw_sector_return,Technology,1,5,Ridge,95,0.008756797358053459,-0.04693102301508967,1000.0,
+raw_sector_return,Technology,1,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+raw_sector_return,Technology,1,5,ElasticNet,95,0.0,-0.05617977528089879,0.03162277660168379,0.5
+raw_sector_return,Consumer Staples,1,5,OLS,95,0.022236559970240877,-0.03269397036850963,,
+raw_sector_return,Consumer Staples,1,5,Ridge,95,0.0046277888204562245,-0.05129199832446196,1000.0,
+raw_sector_return,Consumer Staples,1,5,Lasso,95,0.0,-0.05617977528089879,0.01,
+raw_sector_return,Consumer Staples,1,5,ElasticNet,95,0.0,-0.05617977528089879,0.03162277660168379,0.3
+raw_sector_return,Real Estate,1,5,OLS,95,0.016393636357012298,-0.03886514811731279,,
+raw_sector_return,Real Estate,1,5,Ridge,95,0.003507918630147211,-0.052474782570406164,1000.0,
+raw_sector_return,Real Estate,1,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+raw_sector_return,Real Estate,1,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+raw_sector_return,Utilities,1,5,OLS,95,0.009687202556894037,-0.04594834786125812,,
+raw_sector_return,Utilities,1,5,Ridge,95,0.0017970879942923457,-0.05428172728692715,1000.0,
+raw_sector_return,Utilities,1,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+raw_sector_return,Utilities,1,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+raw_sector_return,Health Care,1,5,OLS,95,0.014749612594028072,-0.040601532765857984,,
+raw_sector_return,Health Care,1,5,Ridge,95,0.002971640406435272,-0.05304118878421438,1000.0,
+raw_sector_return,Health Care,1,5,Lasso,95,0.0,-0.05617977528089879,0.01467799267622069,
+raw_sector_return,Health Care,1,5,ElasticNet,95,0.0,-0.05617977528089879,0.1467799267622069,0.1
+raw_sector_return,Consumer Discretionary,1,5,OLS,95,0.04809386749579736,-0.005384005116798374,,
+raw_sector_return,Consumer Discretionary,1,5,Ridge,95,0.008188164893804695,-0.04753160112339727,1000.0,
+raw_sector_return,Consumer Discretionary,1,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+raw_sector_return,Consumer Discretionary,1,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+raw_sector_return,Materials,1,10,OLS,95,0.07643761938124738,-0.03351028307336601,,
+raw_sector_return,Materials,1,10,Ridge,95,0.01440238101384439,-0.10293066886545987,1000.0,
+raw_sector_return,Materials,1,10,Lasso,95,0.031600065860583504,-0.08368564058458516,0.006812920690579608,
+raw_sector_return,Materials,1,10,ElasticNet,95,0.030284229795975892,-0.08515812379974119,0.06812920690579609,0.1
+raw_sector_return,Communication Services,1,10,OLS,95,0.12591724282869354,0.02185977173687126,,
+raw_sector_return,Communication Services,1,10,Ridge,95,0.0528047484468146,-0.059956591023802686,316.22776601683796,
+raw_sector_return,Communication Services,1,10,Lasso,95,0.07000018626858007,-0.04071407727087473,0.004641588833612777,
+raw_sector_return,Communication Services,1,10,ElasticNet,95,0.07411404777535568,-0.036110470346625734,0.01467799267622069,0.3
+raw_sector_return,Energy,1,10,OLS,95,0.08628242553039334,-0.022493476192178896,,
+raw_sector_return,Energy,1,10,Ridge,95,0.016823042891405016,-0.10022183295485632,1000.0,
+raw_sector_return,Energy,1,10,Lasso,95,0.0,-0.11904761904761907,0.03162277660168379,
+raw_sector_return,Energy,1,10,ElasticNet,95,0.0,-0.11904761904761907,0.03162277660168379,0.9
+raw_sector_return,Financials,1,10,OLS,95,0.10051370510015134,-0.006567996673640053,,
+raw_sector_return,Financials,1,10,Ridge,95,0.015640624662790592,-0.10154501525830573,1000.0,
+raw_sector_return,Financials,1,10,Lasso,95,0.0,-0.11904761904761907,1.0,
+raw_sector_return,Financials,1,10,ElasticNet,95,0.0,-0.11904761904761907,1.0,0.1
+raw_sector_return,Industrials,1,10,OLS,95,0.09278802256358909,-0.01521340332169796,,
+raw_sector_return,Industrials,1,10,Ridge,95,0.016029346799406152,-0.10111001667685504,1000.0,
+raw_sector_return,Industrials,1,10,Lasso,95,0.0,-0.11904761904761907,1.0,
+raw_sector_return,Industrials,1,10,ElasticNet,95,0.0,-0.11904761904761907,1.0,0.1
+raw_sector_return,Technology,1,10,OLS,95,0.1286118436057727,0.024875158320745605,,
+raw_sector_return,Technology,1,10,Ridge,95,0.01727255951066753,-0.09971880245234832,1000.0,
+raw_sector_return,Technology,1,10,Lasso,95,0.0,-0.11904761904761907,1.0,
+raw_sector_return,Technology,1,10,ElasticNet,95,0.0,-0.11904761904761907,0.03162277660168379,0.5
+raw_sector_return,Consumer Staples,1,10,OLS,95,0.06605084088868596,-0.04513358281504187,,
+raw_sector_return,Consumer Staples,1,10,Ridge,95,0.008237384748663867,-0.10982959325744757,1000.0,
+raw_sector_return,Consumer Staples,1,10,Lasso,95,0.0,-0.11904761904761907,0.01,
+raw_sector_return,Consumer Staples,1,10,ElasticNet,95,0.0,-0.11904761904761907,0.1,0.1
+raw_sector_return,Real Estate,1,10,OLS,95,0.06248005085127428,-0.04912946690452635,,
+raw_sector_return,Real Estate,1,10,Ridge,95,0.007358102334907746,-0.11081355214903188,1000.0,
+raw_sector_return,Real Estate,1,10,Lasso,95,0.0,-0.11904761904761907,1.0,
+raw_sector_return,Real Estate,1,10,ElasticNet,95,0.0,-0.11904761904761907,1.0,0.1
+raw_sector_return,Utilities,1,10,OLS,95,0.03390331948119707,-0.08110819010437464,,
+raw_sector_return,Utilities,1,10,Ridge,95,0.004935692642733414,-0.1135243439474174,1000.0,
+raw_sector_return,Utilities,1,10,Lasso,95,0.0,-0.11904761904761907,1.0,
+raw_sector_return,Utilities,1,10,ElasticNet,95,0.0,-0.11904761904761907,1.0,0.1
+raw_sector_return,Health Care,1,10,OLS,95,0.0341916668110539,-0.08078551571143966,,
+raw_sector_return,Health Care,1,10,Ridge,95,0.005783561505978918,-0.11257553831473799,1000.0,
+raw_sector_return,Health Care,1,10,Lasso,95,0.0,-0.11904761904761907,0.01467799267622069,
+raw_sector_return,Health Care,1,10,ElasticNet,95,0.0,-0.11904761904761907,0.046415888336127774,0.3
+raw_sector_return,Consumer Discretionary,1,10,OLS,95,0.08807898078190823,-0.020483045315483617,,
+raw_sector_return,Consumer Discretionary,1,10,Ridge,95,0.014917215769664649,-0.10235454425775625,1000.0,
+raw_sector_return,Consumer Discretionary,1,10,Lasso,95,0.0,-0.11904761904761907,1.0,
+raw_sector_return,Consumer Discretionary,1,10,ElasticNet,95,0.0,-0.11904761904761907,1.0,0.1
+raw_sector_return,Materials,1,13,OLS,95,0.10603663809666208,-0.037438963196466224,,
+raw_sector_return,Materials,1,13,Ridge,95,0.01779215831394465,-0.13984613726529882,1000.0,
+raw_sector_return,Materials,1,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+raw_sector_return,Materials,1,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+raw_sector_return,Communication Services,1,13,OLS,95,0.1875545543984769,0.0571620754747757,,
+raw_sector_return,Communication Services,1,13,Ridge,95,0.09722330511060973,-0.047666781723489926,177.82794100389228,
+raw_sector_return,Communication Services,1,13,Lasso,95,0.0,-0.16049382716049387,0.021544346900318822,
+raw_sector_return,Communication Services,1,13,ElasticNet,95,0.0,-0.16049382716049387,0.03162277660168379,0.7
+raw_sector_return,Energy,1,13,OLS,95,0.11679352763661643,-0.024955659285901932,,
+raw_sector_return,Energy,1,13,Ridge,95,0.02072572299380282,-0.13644175356274735,1000.0,
+raw_sector_return,Energy,1,13,Lasso,95,0.0,-0.16049382716049387,0.03162277660168379,
+raw_sector_return,Energy,1,13,ElasticNet,95,0.0,-0.16049382716049387,0.03162277660168379,0.9
+raw_sector_return,Financials,1,13,OLS,95,0.11720551085187292,-0.024477555307703014,,
+raw_sector_return,Financials,1,13,Ridge,95,0.01568257336317791,-0.14229429757853418,1000.0,
+raw_sector_return,Financials,1,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+raw_sector_return,Financials,1,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+raw_sector_return,Industrials,1,13,OLS,95,0.12472210709260156,-0.015754591769079784,,
+raw_sector_return,Industrials,1,13,Ridge,95,0.017954370588689206,-0.13965789092176806,1000.0,
+raw_sector_return,Industrials,1,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+raw_sector_return,Industrials,1,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+raw_sector_return,Technology,1,13,OLS,95,0.19142493424619056,0.06165362739681379,,
+raw_sector_return,Technology,1,13,Ridge,95,0.021564594826595562,-0.13546824797901258,1000.0,
+raw_sector_return,Technology,1,13,Lasso,95,0.0,-0.16049382716049387,0.01467799267622069,
+raw_sector_return,Technology,1,13,ElasticNet,95,0.0,-0.16049382716049387,0.03162277660168379,0.5
+raw_sector_return,Consumer Staples,1,13,OLS,95,0.09544090848486941,-0.04973524200521329,,
+raw_sector_return,Consumer Staples,1,13,Ridge,95,0.010983452927587956,-0.1477475978371201,1000.0,
+raw_sector_return,Consumer Staples,1,13,Lasso,95,0.0,-0.16049382716049387,0.01,
+raw_sector_return,Consumer Staples,1,13,ElasticNet,95,0.0,-0.16049382716049387,0.1,0.1
+raw_sector_return,Real Estate,1,13,OLS,95,0.08613294564180529,-0.06053707542802833,,
+raw_sector_return,Real Estate,1,13,Ridge,95,0.008491078483043313,-0.1506399829949867,1000.0,
+raw_sector_return,Real Estate,1,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+raw_sector_return,Real Estate,1,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+raw_sector_return,Utilities,1,13,OLS,95,0.047792397241248175,-0.10503104517682305,,
+raw_sector_return,Utilities,1,13,Ridge,95,0.005923693637505667,-0.15361941726017858,1000.0,
+raw_sector_return,Utilities,1,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+raw_sector_return,Utilities,1,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+raw_sector_return,Health Care,1,13,OLS,95,0.042796676961435964,-0.1108285477237656,,
+raw_sector_return,Health Care,1,13,Ridge,95,0.006120029229519597,-0.1533915710175946,1000.0,
+raw_sector_return,Health Care,1,13,Lasso,95,0.0,-0.16049382716049387,0.01467799267622069,
+raw_sector_return,Health Care,1,13,ElasticNet,95,0.0,-0.16049382716049387,0.046415888336127774,0.3
+raw_sector_return,Consumer Discretionary,1,13,OLS,95,0.11518213235063635,-0.02682567356839738,,
+raw_sector_return,Consumer Discretionary,1,13,Ridge,95,0.0157054051897193,-0.14226780138477024,1000.0,
+raw_sector_return,Consumer Discretionary,1,13,Lasso,95,0.0,-0.16049382716049387,0.01467799267622069,
+raw_sector_return,Consumer Discretionary,1,13,ElasticNet,95,0.0,-0.16049382716049387,0.046415888336127774,0.3
+raw_sector_return,Materials,2,5,OLS,95,0.03088591844532529,-0.023558692877970966,,
+raw_sector_return,Materials,2,5,Ridge,95,0.004467441512349457,-0.051461353908305085,1000.0,
+raw_sector_return,Materials,2,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+raw_sector_return,Materials,2,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+raw_sector_return,Communication Services,2,5,OLS,95,0.07387490936739505,0.021845409893653245,,
+raw_sector_return,Communication Services,2,5,Ridge,95,0.04787701756155793,-0.005613037631613027,100.0,
+raw_sector_return,Communication Services,2,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+raw_sector_return,Communication Services,2,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+raw_sector_return,Energy,2,5,OLS,95,0.07900278274145622,0.02726136604153806,,
+raw_sector_return,Energy,2,5,Ridge,95,0.05943341914809974,0.006592599999116655,56.23413251903491,
+raw_sector_return,Energy,2,5,Lasso,95,0.0011227564096405462,-0.054993942668469575,0.01467799267622069,
+raw_sector_return,Energy,2,5,ElasticNet,95,0.00099307933009396,-0.05513090497720419,0.1467799267622069,0.1
+raw_sector_return,Financials,2,5,OLS,95,0.02231693606714591,-0.03260907876054242,,
+raw_sector_return,Financials,2,5,Ridge,95,0.002498307058171334,-0.05354111389361682,1000.0,
+raw_sector_return,Financials,2,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+raw_sector_return,Financials,2,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+raw_sector_return,Industrials,2,5,OLS,95,0.023762446876288146,-0.03108235947897664,,
+raw_sector_return,Industrials,2,5,Ridge,95,0.0028642747651215217,-0.05315458620313018,1000.0,
+raw_sector_return,Industrials,2,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+raw_sector_return,Industrials,2,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+raw_sector_return,Technology,2,5,OLS,95,0.05041849775381935,-0.0029287776532695986,,
+raw_sector_return,Technology,2,5,Ridge,95,0.009726567316558965,-0.04590677159824108,1000.0,
+raw_sector_return,Technology,2,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+raw_sector_return,Technology,2,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+raw_sector_return,Consumer Staples,2,5,OLS,95,0.01676127859647092,-0.03847685181945759,,
+raw_sector_return,Consumer Staples,2,5,Ridge,95,0.0022770976132132636,-0.053774750835482665,1000.0,
+raw_sector_return,Consumer Staples,2,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+raw_sector_return,Consumer Staples,2,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+raw_sector_return,Real Estate,2,5,OLS,95,0.03529329069060383,-0.018903715450373504,,
+raw_sector_return,Real Estate,2,5,Ridge,95,0.0053590478566678534,-0.050519657319923805,1000.0,
+raw_sector_return,Real Estate,2,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+raw_sector_return,Real Estate,2,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+raw_sector_return,Utilities,2,5,OLS,95,0.0018871837252507628,-0.054186569998049716,,
+raw_sector_return,Utilities,2,5,Ridge,95,0.0003487396670920351,-0.05581144349767819,1000.0,
+raw_sector_return,Utilities,2,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+raw_sector_return,Utilities,2,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+raw_sector_return,Health Care,2,5,OLS,95,0.007539037809286775,-0.0482171960216522,,
+raw_sector_return,Health Care,2,5,Ridge,95,0.0011388191561610972,-0.05497697752045916,1000.0,
+raw_sector_return,Health Care,2,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+raw_sector_return,Health Care,2,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+raw_sector_return,Consumer Discretionary,2,5,OLS,95,0.01864146749247364,-0.03649103433379186,,
+raw_sector_return,Consumer Discretionary,2,5,Ridge,95,0.0028239046600285755,-0.05319722429165519,1000.0,
+raw_sector_return,Consumer Discretionary,2,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+raw_sector_return,Consumer Discretionary,2,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+raw_sector_return,Materials,2,10,OLS,95,0.10989333330576179,0.00392825393740015,,
+raw_sector_return,Materials,2,10,Ridge,95,0.01782559757276192,-0.09909992652571886,1000.0,
+raw_sector_return,Materials,2,10,Lasso,95,0.011059503669859194,-0.10667150779801471,0.01,
+raw_sector_return,Materials,2,10,ElasticNet,95,0.010214996916360852,-0.10761655106978663,0.1,0.1
+raw_sector_return,Communication Services,2,10,OLS,95,0.1524387154560337,0.051538562534132915,,
+raw_sector_return,Communication Services,2,10,Ridge,95,0.11239978584358212,0.006733093682103841,100.0,
+raw_sector_return,Communication Services,2,10,Lasso,95,0.06732885823962242,-0.04370342054137488,0.006812920690579608,
+raw_sector_return,Communication Services,2,10,ElasticNet,95,0.0759518150593479,-0.034053921243110796,0.006812920690579608,0.9
+raw_sector_return,Energy,2,10,OLS,95,0.11295652741401108,0.007356114010917181,,
+raw_sector_return,Energy,2,10,Ridge,95,0.04902738952693497,-0.06418363552938233,316.22776601683796,
+raw_sector_return,Energy,2,10,Lasso,95,0.0,-0.11904761904761907,0.021544346900318822,
+raw_sector_return,Energy,2,10,ElasticNet,95,0.0,-0.11904761904761907,0.03162277660168379,0.7
+raw_sector_return,Financials,2,10,OLS,95,0.14733971888998765,0.04583254256736713,,
+raw_sector_return,Financials,2,10,Ridge,95,0.07262769630014154,-0.037773768426032195,177.82794100389228,
+raw_sector_return,Financials,2,10,Lasso,95,0.08136466588254399,-0.027996683417153223,0.006812920690579608,
+raw_sector_return,Financials,2,10,ElasticNet,95,0.08983881546780759,-0.0185137065003107,0.006812920690579608,0.9
+raw_sector_return,Industrials,2,10,OLS,95,0.09084225451209371,-0.017390810426942682,,
+raw_sector_return,Industrials,2,10,Ridge,95,0.013265671350937258,-0.10420270110728436,1000.0,
+raw_sector_return,Industrials,2,10,Lasso,95,0.0,-0.11904761904761907,1.0,
+raw_sector_return,Industrials,2,10,ElasticNet,95,0.0,-0.11904761904761907,1.0,0.1
+raw_sector_return,Technology,2,10,OLS,95,0.1249418532142591,0.020768264311194717,,
+raw_sector_return,Technology,2,10,Ridge,95,0.01929060932084148,-0.09746050861715361,1000.0,
+raw_sector_return,Technology,2,10,Lasso,95,0.0,-0.11904761904761907,1.0,
+raw_sector_return,Technology,2,10,ElasticNet,95,0.0,-0.11904761904761907,1.0,0.1
+raw_sector_return,Consumer Staples,2,10,OLS,95,0.06447445683273667,-0.046897631639556625,,
+raw_sector_return,Consumer Staples,2,10,Ridge,95,0.005959975558328612,-0.11237812258948932,1000.0,
+raw_sector_return,Consumer Staples,2,10,Lasso,95,0.0,-0.11904761904761907,1.0,
+raw_sector_return,Consumer Staples,2,10,ElasticNet,95,0.0,-0.11904761904761907,1.0,0.1
+raw_sector_return,Real Estate,2,10,OLS,95,0.08951632615842497,-0.018874587394143383,,
+raw_sector_return,Real Estate,2,10,Ridge,95,0.01108708723930274,-0.1066406404703042,1000.0,
+raw_sector_return,Real Estate,2,10,Lasso,95,0.0,-0.11904761904761907,0.01467799267622069,
+raw_sector_return,Real Estate,2,10,ElasticNet,95,0.0,-0.11904761904761907,0.046415888336127774,0.3
+raw_sector_return,Utilities,2,10,OLS,95,0.03871236886143081,-0.07572663484554165,,
+raw_sector_return,Utilities,2,10,Ridge,95,0.004941476638141151,-0.11351787138112779,1000.0,
+raw_sector_return,Utilities,2,10,Lasso,95,0.0,-0.11904761904761907,1.0,
+raw_sector_return,Utilities,2,10,ElasticNet,95,0.0,-0.11904761904761907,1.0,0.1
+raw_sector_return,Health Care,2,10,OLS,95,0.07737352701138034,-0.0324629578682174,,
+raw_sector_return,Health Care,2,10,Ridge,95,0.006875630288796453,-0.11135346134348967,1000.0,
+raw_sector_return,Health Care,2,10,Lasso,95,0.0,-0.11904761904761907,1.0,
+raw_sector_return,Health Care,2,10,ElasticNet,95,0.0,-0.11904761904761907,1.0,0.1
+raw_sector_return,Consumer Discretionary,2,10,OLS,95,0.09310120805800659,-0.014862933839849601,,
+raw_sector_return,Consumer Discretionary,2,10,Ridge,95,0.014300710422637364,-0.10304444309847716,1000.0,
+raw_sector_return,Consumer Discretionary,2,10,Lasso,95,0.038867270984095925,-0.07555329199398786,0.006812920690579608,
+raw_sector_return,Consumer Discretionary,2,10,ElasticNet,95,0.03683136602064441,-0.0778315665959457,0.06812920690579609,0.1
+raw_sector_return,Materials,2,13,OLS,95,0.11935297905006326,-0.021985431719679704,,
+raw_sector_return,Materials,2,13,Ridge,95,0.020855363491059764,-0.1362913065659308,1000.0,
+raw_sector_return,Materials,2,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+raw_sector_return,Materials,2,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+raw_sector_return,Communication Services,2,13,OLS,95,0.1723937168350791,0.03956801706786961,,
+raw_sector_return,Communication Services,2,13,Ridge,95,0.09746625569819412,-0.047384839066293205,177.82794100389228,
+raw_sector_return,Communication Services,2,13,Lasso,95,0.0,-0.16049382716049387,0.01467799267622069,
+raw_sector_return,Communication Services,2,13,ElasticNet,95,0.0,-0.16049382716049387,0.021544346900318822,0.7
+raw_sector_return,Energy,2,13,OLS,95,0.14115316701451042,0.003313551843999618,,
+raw_sector_return,Energy,2,13,Ridge,95,0.026304249007147673,-0.12996790855960638,1000.0,
+raw_sector_return,Energy,2,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+raw_sector_return,Energy,2,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+raw_sector_return,Financials,2,13,OLS,95,0.2012976965759874,0.07311090713756574,,
+raw_sector_return,Financials,2,13,Ridge,95,0.10441546292063186,-0.03932032698099497,177.82794100389228,
+raw_sector_return,Financials,2,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+raw_sector_return,Financials,2,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+raw_sector_return,Industrials,2,13,OLS,95,0.1354468828120582,-0.0033085557489695994,,
+raw_sector_return,Industrials,2,13,Ridge,95,0.021339928261359775,-0.1357289721411381,1000.0,
+raw_sector_return,Industrials,2,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+raw_sector_return,Industrials,2,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+raw_sector_return,Technology,2,13,OLS,95,0.16006662182865394,0.025262499406092154,,
+raw_sector_return,Technology,2,13,Ridge,95,0.02314069525216078,-0.13363919316415918,1000.0,
+raw_sector_return,Technology,2,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+raw_sector_return,Technology,2,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+raw_sector_return,Consumer Staples,2,13,OLS,95,0.07104584262534774,-0.07804556534836182,,
+raw_sector_return,Consumer Staples,2,13,Ridge,95,0.007738886814872559,-0.1515128967827406,1000.0,
+raw_sector_return,Consumer Staples,2,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+raw_sector_return,Consumer Staples,2,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+raw_sector_return,Real Estate,2,13,OLS,95,0.1251612337100838,-0.015244988040149732,,
+raw_sector_return,Real Estate,2,13,Ridge,95,0.014867525902104273,-0.143240155125953,1000.0,
+raw_sector_return,Real Estate,2,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+raw_sector_return,Real Estate,2,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+raw_sector_return,Utilities,2,13,OLS,95,0.05505153407821106,-0.09660686168701438,,
+raw_sector_return,Utilities,2,13,Ridge,95,0.010219706711350085,-0.14863392060658143,1000.0,
+raw_sector_return,Utilities,2,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+raw_sector_return,Utilities,2,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+raw_sector_return,Health Care,2,13,OLS,95,0.09499224717223509,-0.05025591068901125,,
+raw_sector_return,Health Care,2,13,Ridge,95,0.010366151392324996,-0.14846397245828946,1000.0,
+raw_sector_return,Health Care,2,13,Lasso,95,0.0,-0.16049382716049387,0.01,
+raw_sector_return,Health Care,2,13,ElasticNet,95,0.0,-0.16049382716049387,0.021544346900318822,0.5
+raw_sector_return,Consumer Discretionary,2,13,OLS,95,0.13449304069117973,-0.004415483642334683,,
+raw_sector_return,Consumer Discretionary,2,13,Ridge,95,0.018990463663909996,-0.13845551130361056,1000.0,
+raw_sector_return,Consumer Discretionary,2,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+raw_sector_return,Consumer Discretionary,2,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+sector_excess_return,Materials_excess,1,5,OLS,95,0.04536596095357892,-0.008265164835545846,,
+sector_excess_return,Materials_excess,1,5,Ridge,95,0.006958079118943972,-0.04883079284066594,1000.0,
+sector_excess_return,Materials_excess,1,5,Lasso,95,0.022929072558838803,-0.03196255257830516,0.0031622776601683794,
+sector_excess_return,Materials_excess,1,5,ElasticNet,95,0.02637235040769592,-0.02832583215366946,0.0031622776601683794,0.9
+sector_excess_return,Communication Services_excess,1,5,OLS,95,0.10976665329123603,0.05975354392557519,,
+sector_excess_return,Communication Services_excess,1,5,Ridge,95,0.09839492916087289,0.04774295888901192,31.622776601683793,
+sector_excess_return,Communication Services_excess,1,5,Lasso,95,0.06971949451526571,0.017456544768932214,0.0031622776601683794,
+sector_excess_return,Communication Services_excess,1,5,ElasticNet,95,0.0672826856668588,0.014882836547019496,0.006812920690579608,0.5
+sector_excess_return,Energy_excess,1,5,OLS,95,0.06190625301188024,0.009204357113671291,,
+sector_excess_return,Energy_excess,1,5,Ridge,95,0.008128649666169996,-0.04759445990314615,1000.0,
+sector_excess_return,Energy_excess,1,5,Lasso,95,0.0,-0.05617977528089879,0.01467799267622069,
+sector_excess_return,Energy_excess,1,5,ElasticNet,95,0.0,-0.05617977528089879,0.046415888336127774,0.3
+sector_excess_return,Financials_excess,1,5,OLS,95,0.06906542058445442,0.01676572511167096,,
+sector_excess_return,Financials_excess,1,5,Ridge,95,0.03882790682829729,-0.015170525372360188,177.82794100389228,
+sector_excess_return,Financials_excess,1,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+sector_excess_return,Financials_excess,1,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+sector_excess_return,Industrials_excess,1,5,OLS,95,0.0245524555974298,-0.030247968245411316,,
+sector_excess_return,Industrials_excess,1,5,Ridge,95,0.0025998361068250153,-0.05343388096582524,1000.0,
+sector_excess_return,Industrials_excess,1,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+sector_excess_return,Industrials_excess,1,5,ElasticNet,95,0.0,-0.05617977528089879,0.01,0.9
+sector_excess_return,Technology_excess,1,5,OLS,95,0.05867875094488595,0.005795534705834604,,
+sector_excess_return,Technology_excess,1,5,Ridge,95,0.008558287673372078,-0.0471406849292475,1000.0,
+sector_excess_return,Technology_excess,1,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+sector_excess_return,Technology_excess,1,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+sector_excess_return,Consumer Staples_excess,1,5,OLS,95,0.023621735842068725,-0.031230975627478008,,
+sector_excess_return,Consumer Staples_excess,1,5,Ridge,95,0.002399524058834923,-0.05364544649965741,1000.0,
+sector_excess_return,Consumer Staples_excess,1,5,Lasso,95,0.0,-0.05617977528089879,0.006812920690579608,
+sector_excess_return,Consumer Staples_excess,1,5,ElasticNet,95,0.0,-0.05617977528089879,0.021544346900318822,0.3
+sector_excess_return,Real Estate_excess,1,5,OLS,95,0.03757466964743761,-0.016494169136414216,,
+sector_excess_return,Real Estate_excess,1,5,Ridge,95,0.0057596567637547835,-0.050096542294461255,1000.0,
+sector_excess_return,Real Estate_excess,1,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+sector_excess_return,Real Estate_excess,1,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+sector_excess_return,Utilities_excess,1,5,OLS,95,0.029493564620971413,-0.02502926882728862,,
+sector_excess_return,Utilities_excess,1,5,Ridge,95,0.0038352929202143393,-0.05212901646629042,1000.0,
+sector_excess_return,Utilities_excess,1,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+sector_excess_return,Utilities_excess,1,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+sector_excess_return,Health Care_excess,1,5,OLS,95,0.02623941142474573,-0.02846623961880801,,
+sector_excess_return,Health Care_excess,1,5,Ridge,95,0.004287687289702413,-0.05165120668278611,1000.0,
+sector_excess_return,Health Care_excess,1,5,Lasso,95,0.0011217575225228593,-0.054994997672840995,0.0031622776601683794,
+sector_excess_return,Health Care_excess,1,5,ElasticNet,95,0.0019863664700716654,-0.054081815188913085,0.01,0.3
+sector_excess_return,Consumer Discretionary_excess,1,5,OLS,95,0.04439884043624698,-0.009286617966210997,,
+sector_excess_return,Consumer Discretionary_excess,1,5,Ridge,95,0.008143375024145194,-0.047578907277869176,1000.0,
+sector_excess_return,Consumer Discretionary_excess,1,5,Lasso,95,0.009635378793322436,-0.04600308307222134,0.0031622776601683794,
+sector_excess_return,Consumer Discretionary_excess,1,5,ElasticNet,95,0.009396261143634344,-0.046255634297734494,0.03162277660168379,0.1
+sector_excess_return,Materials_excess,1,10,OLS,95,0.11125344251053582,0.0054502809046471645,,
+sector_excess_return,Materials_excess,1,10,Ridge,95,0.013579311714853048,-0.10385172260480724,1000.0,
+sector_excess_return,Materials_excess,1,10,Lasso,95,0.04637245513358701,-0.06715463354098605,0.0031622776601683794,
+sector_excess_return,Materials_excess,1,10,ElasticNet,95,0.053715893852834595,-0.05893697592658986,0.0031622776601683794,0.9
+sector_excess_return,Communication Services_excess,1,10,OLS,95,0.23418511122181918,0.14301667208155966,,
+sector_excess_return,Communication Services_excess,1,10,Ridge,95,0.22255116723973645,0.12999773476827647,10.0,
+sector_excess_return,Communication Services_excess,1,10,Lasso,95,0.0,-0.11904761904761907,1.0,
+sector_excess_return,Communication Services_excess,1,10,ElasticNet,95,0.0,-0.11904761904761907,1.0,0.1
+sector_excess_return,Energy_excess,1,10,OLS,95,0.12876080897430864,0.025041857661726397,,
+sector_excess_return,Energy_excess,1,10,Ridge,95,0.05300206780040284,-0.059735781270977784,316.22776601683796,
+sector_excess_return,Energy_excess,1,10,Lasso,95,0.0,-0.11904761904761907,0.021544346900318822,
+sector_excess_return,Energy_excess,1,10,ElasticNet,95,0.0,-0.11904761904761907,0.06812920690579609,0.3
+sector_excess_return,Financials_excess,1,10,OLS,95,0.12437135337435523,0.02012984782368321,,
+sector_excess_return,Financials_excess,1,10,Ridge,95,0.07082470977028266,-0.039791396209445606,177.82794100389228,
+sector_excess_return,Financials_excess,1,10,Lasso,95,0.0,-0.11904761904761907,1.0,
+sector_excess_return,Financials_excess,1,10,ElasticNet,95,0.0,-0.11904761904761907,1.0,0.1
+sector_excess_return,Industrials_excess,1,10,OLS,95,0.10638911671349915,6.868703201434734e-06,,
+sector_excess_return,Industrials_excess,1,10,Ridge,95,0.01685120496999082,-0.1001903182478674,1000.0,
+sector_excess_return,Industrials_excess,1,10,Lasso,95,0.0,-0.11904761904761907,1.0,
+sector_excess_return,Industrials_excess,1,10,ElasticNet,95,0.0,-0.11904761904761907,0.01,0.9
+sector_excess_return,Technology_excess,1,10,OLS,95,0.1951403275829734,0.0993236999142798,,
+sector_excess_return,Technology_excess,1,10,Ridge,95,0.13266053341991701,0.02940583501752614,100.0,
+sector_excess_return,Technology_excess,1,10,Lasso,95,0.015039139508227772,-0.10221810578841173,0.006812920690579608,
+sector_excess_return,Technology_excess,1,10,ElasticNet,95,0.025500957595524287,-0.09051083316691333,0.006812920690579608,0.9
+sector_excess_return,Consumer Staples_excess,1,10,OLS,95,0.0882893982499614,-0.020247578148852696,,
+sector_excess_return,Consumer Staples_excess,1,10,Ridge,95,0.011654222448928997,-0.10600598916429371,1000.0,
+sector_excess_return,Consumer Staples_excess,1,10,Lasso,95,0.005413509470110767,-0.11298964416439983,0.004641588833612777,
+sector_excess_return,Consumer Staples_excess,1,10,ElasticNet,95,0.005211456073035081,-0.11321575153731778,0.046415888336127774,0.1
+sector_excess_return,Real Estate_excess,1,10,OLS,95,0.08829039946319694,-0.02024645774356526,,
+sector_excess_return,Real Estate_excess,1,10,Ridge,95,0.010709056714902743,-0.10706367462856115,1000.0,
+sector_excess_return,Real Estate_excess,1,10,Lasso,95,0.003649499316546456,-0.11496365552672172,0.004641588833612777,
+sector_excess_return,Real Estate_excess,1,10,ElasticNet,95,0.011354853041749435,-0.10634099778661366,0.004641588833612777,0.9
+sector_excess_return,Utilities_excess,1,10,OLS,95,0.07913852478130934,-0.030487841316153785,,
+sector_excess_return,Utilities_excess,1,10,Ridge,95,0.010658459068842996,-0.10712029580391391,1000.0,
+sector_excess_return,Utilities_excess,1,10,Lasso,95,0.0,-0.11904761904761907,1.0,
+sector_excess_return,Utilities_excess,1,10,ElasticNet,95,0.0,-0.11904761904761907,1.0,0.1
+sector_excess_return,Health Care_excess,1,10,OLS,95,0.0771480366474061,-0.03271529232314063,,
+sector_excess_return,Health Care_excess,1,10,Ridge,95,0.010603680704337481,-0.107181595402289,1000.0,
+sector_excess_return,Health Care_excess,1,10,Lasso,95,0.0,-0.11904761904761907,0.006812920690579608,
+sector_excess_return,Health Care_excess,1,10,ElasticNet,95,0.0,-0.11904761904761907,0.006812920690579608,0.9
+sector_excess_return,Consumer Discretionary_excess,1,10,OLS,95,0.0681802386552216,-0.042750685314394854,,
+sector_excess_return,Consumer Discretionary_excess,1,10,Ridge,95,0.011734420252334399,-0.1059162440033401,1000.0,
+sector_excess_return,Consumer Discretionary_excess,1,10,Lasso,95,0.0,-0.11904761904761907,1.0,
+sector_excess_return,Consumer Discretionary_excess,1,10,ElasticNet,95,0.0,-0.11904761904761907,1.0,0.1
+sector_excess_return,Materials_excess,1,13,OLS,95,0.14960668393640364,0.013123806049653686,,
+sector_excess_return,Materials_excess,1,13,Ridge,95,0.021541794353487465,-0.135494707787311,1000.0,
+sector_excess_return,Materials_excess,1,13,Lasso,95,0.0,-0.16049382716049387,0.006812920690579608,
+sector_excess_return,Materials_excess,1,13,ElasticNet,95,0.0,-0.16049382716049387,0.006812920690579608,0.9
+sector_excess_return,Communication Services_excess,1,13,OLS,95,0.3025494840441394,0.19061298148332217,,
+sector_excess_return,Communication Services_excess,1,13,Ridge,95,0.2801100779485245,0.16457218922421368,31.622776601683793,
+sector_excess_return,Communication Services_excess,1,13,Lasso,95,0.24954314038139302,0.1290994468623573,0.002154434690031882,
+sector_excess_return,Communication Services_excess,1,13,ElasticNet,95,0.2831138513163214,0.168058049675731,0.01,0.1
+sector_excess_return,Energy_excess,1,13,OLS,95,0.14304755892255816,0.005511981959511858,,
+sector_excess_return,Energy_excess,1,13,Ridge,95,0.04105603341870423,-0.1128485538103925,562.341325190349,
+sector_excess_return,Energy_excess,1,13,Lasso,95,0.0,-0.16049382716049387,0.021544346900318822,
+sector_excess_return,Energy_excess,1,13,ElasticNet,95,0.0,-0.16049382716049387,0.06812920690579609,0.3
+sector_excess_return,Financials_excess,1,13,OLS,95,0.14258269131163503,0.004972505966588714,,
+sector_excess_return,Financials_excess,1,13,Ridge,95,0.03796615904691192,-0.11643433394555891,562.341325190349,
+sector_excess_return,Financials_excess,1,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+sector_excess_return,Financials_excess,1,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+sector_excess_return,Industrials_excess,1,13,OLS,95,0.15258082951439622,0.016575283633990634,,
+sector_excess_return,Industrials_excess,1,13,Ridge,95,0.02482233995186711,-0.1316876548706727,1000.0,
+sector_excess_return,Industrials_excess,1,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+sector_excess_return,Industrials_excess,1,13,ElasticNet,95,0.0,-0.16049382716049387,0.01,0.9
+sector_excess_return,Technology_excess,1,13,OLS,95,0.2510107359814593,0.13080258249700216,,
+sector_excess_return,Technology_excess,1,13,Ridge,95,0.20163440979614655,0.07350166075108366,56.23413251903491,
+sector_excess_return,Technology_excess,1,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+sector_excess_return,Technology_excess,1,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+sector_excess_return,Consumer Staples_excess,1,13,OLS,95,0.11421683831832585,-0.027945891334288486,,
+sector_excess_return,Consumer Staples_excess,1,13,Ridge,95,0.013719273123778852,-0.14457269538721973,1000.0,
+sector_excess_return,Consumer Staples_excess,1,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+sector_excess_return,Consumer Staples_excess,1,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+sector_excess_return,Real Estate_excess,1,13,OLS,95,0.10254593927851219,-0.041489897627405625,,
+sector_excess_return,Real Estate_excess,1,13,Ridge,95,0.01115840922228395,-0.14754456213710254,1000.0,
+sector_excess_return,Real Estate_excess,1,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+sector_excess_return,Real Estate_excess,1,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+sector_excess_return,Utilities_excess,1,13,OLS,95,0.13252668355005792,-0.006697428966599528,,
+sector_excess_return,Utilities_excess,1,13,Ridge,95,0.014911895815592602,-0.14318866411523823,1000.0,
+sector_excess_return,Utilities_excess,1,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+sector_excess_return,Utilities_excess,1,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+sector_excess_return,Health Care_excess,1,13,OLS,95,0.10305641770762564,-0.04089749056152092,,
+sector_excess_return,Health Care_excess,1,13,Ridge,95,0.012099027122420947,-0.14645298087027703,1000.0,
+sector_excess_return,Health Care_excess,1,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+sector_excess_return,Health Care_excess,1,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+sector_excess_return,Consumer Discretionary_excess,1,13,OLS,95,0.07203128703009265,-0.07690196319964548,,
+sector_excess_return,Consumer Discretionary_excess,1,13,Ridge,95,0.012154484449407366,-0.14638862298463828,1000.0,
+sector_excess_return,Consumer Discretionary_excess,1,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+sector_excess_return,Consumer Discretionary_excess,1,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+sector_excess_return,Materials_excess,2,5,OLS,95,0.03858427487647553,-0.015427844512486466,,
+sector_excess_return,Materials_excess,2,5,Ridge,95,0.005929635108942621,-0.04991701460403819,1000.0,
+sector_excess_return,Materials_excess,2,5,Lasso,95,0.0,-0.05617977528089879,0.004641588833612777,
+sector_excess_return,Materials_excess,2,5,ElasticNet,95,0.0,-0.05617977528089879,0.046415888336127774,0.1
+sector_excess_return,Communication Services_excess,2,5,OLS,95,0.14413089394832224,0.09604835990047522,,
+sector_excess_return,Communication Services_excess,2,5,Ridge,95,0.1291409388032455,0.0802162724438773,31.622776601683793,
+sector_excess_return,Communication Services_excess,2,5,Lasso,95,0.07807171606944807,0.026277992253124993,0.004641588833612777,
+sector_excess_return,Communication Services_excess,2,5,ElasticNet,95,0.08059866378335412,0.028946903321744766,0.01467799267622069,0.3
+sector_excess_return,Energy_excess,2,5,OLS,95,0.09463695455864074,0.04377386211811496,,
+sector_excess_return,Energy_excess,2,5,Ridge,95,0.04424600425991043,-0.009448040444588912,177.82794100389228,
+sector_excess_return,Energy_excess,2,5,Lasso,95,0.03446906134972938,-0.019774249810398326,0.006812920690579608,
+sector_excess_return,Energy_excess,2,5,ElasticNet,95,0.0314500931698104,-0.02296282294424512,0.01467799267622069,0.5
+sector_excess_return,Financials_excess,2,5,OLS,95,0.07774305912438217,0.02593087143474082,,
+sector_excess_return,Financials_excess,2,5,Ridge,95,0.05565981802116793,0.0026069988088739393,100.0,
+sector_excess_return,Financials_excess,2,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+sector_excess_return,Financials_excess,2,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+sector_excess_return,Industrials_excess,2,5,OLS,95,0.026735525096725055,-0.027942254392222976,,
+sector_excess_return,Industrials_excess,2,5,Ridge,95,0.002327913419489902,-0.053721080208628536,1000.0,
+sector_excess_return,Industrials_excess,2,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+sector_excess_return,Industrials_excess,2,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+sector_excess_return,Technology_excess,2,5,OLS,95,0.10094026408592571,0.05043129015816872,,
+sector_excess_return,Technology_excess,2,5,Ridge,95,0.043542149369895644,-0.010191437744155207,316.22776601683796,
+sector_excess_return,Technology_excess,2,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+sector_excess_return,Technology_excess,2,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+sector_excess_return,Consumer Staples_excess,2,5,OLS,95,0.0388504675871687,-0.015146697155125066,,
+sector_excess_return,Consumer Staples_excess,2,5,Ridge,95,0.006057071154543792,-0.04978241923003246,1000.0,
+sector_excess_return,Consumer Staples_excess,2,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+sector_excess_return,Consumer Staples_excess,2,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+sector_excess_return,Real Estate_excess,2,5,OLS,95,0.05671394888518577,0.003720350507948944,,
+sector_excess_return,Real Estate_excess,2,5,Ridge,95,0.014147104450331183,-0.041237889681672746,562.341325190349,
+sector_excess_return,Real Estate_excess,2,5,Lasso,95,0.034064796102783346,-0.020201226588071552,0.0031622776601683794,
+sector_excess_return,Real Estate_excess,2,5,ElasticNet,95,0.032585688911673794,-0.021763429688794078,0.006812920690579608,0.5
+sector_excess_return,Utilities_excess,2,5,OLS,95,0.01690176215240813,-0.038328475928917305,,
+sector_excess_return,Utilities_excess,2,5,Ridge,95,0.002760249594187858,-0.05326445548479031,1000.0,
+sector_excess_return,Utilities_excess,2,5,Lasso,95,0.0,-0.05617977528089879,1.0,
+sector_excess_return,Utilities_excess,2,5,ElasticNet,95,0.0,-0.05617977528089879,1.0,0.1
+sector_excess_return,Health Care_excess,2,5,OLS,95,0.07284362398864641,0.02075618713407601,,
+sector_excess_return,Health Care_excess,2,5,Ridge,95,0.018391901521021214,-0.03675462086543835,562.341325190349,
+sector_excess_return,Health Care_excess,2,5,Lasso,95,0.0,-0.05617977528089879,0.006812920690579608,
+sector_excess_return,Health Care_excess,2,5,ElasticNet,95,0.0010057365582807343,-0.05511753666878216,0.006812920690579608,0.9
+sector_excess_return,Consumer Discretionary_excess,2,5,OLS,95,0.030599822105727315,-0.0238608620456362,,
+sector_excess_return,Consumer Discretionary_excess,2,5,Ridge,95,0.00554980158866758,-0.05031818708612623,1000.0,
+sector_excess_return,Consumer Discretionary_excess,2,5,Lasso,95,0.0,-0.05617977528089879,0.004641588833612777,
+sector_excess_return,Consumer Discretionary_excess,2,5,ElasticNet,95,0.0,-0.05617977528089879,0.006812920690579608,0.7
+sector_excess_return,Materials_excess,2,10,OLS,95,0.07059029712946363,-0.04005371511702882,,
+sector_excess_return,Materials_excess,2,10,Ridge,95,0.013385213809008034,-0.10406892740420526,1000.0,
+sector_excess_return,Materials_excess,2,10,Lasso,95,0.0,-0.11904761904761907,1.0,
+sector_excess_return,Materials_excess,2,10,ElasticNet,95,0.0,-0.11904761904761907,1.0,0.1
+sector_excess_return,Communication Services_excess,2,10,OLS,95,0.24185431858601103,0.15159888032244084,,
+sector_excess_return,Communication Services_excess,2,10,Ridge,95,0.19636750327396135,0.10069696794943306,56.23413251903491,
+sector_excess_return,Communication Services_excess,2,10,Lasso,95,0.14324391515835533,0.04124914315339756,0.0031622776601683794,
+sector_excess_return,Communication Services_excess,2,10,ElasticNet,95,0.14093349360787244,0.03866367141833338,0.03162277660168379,0.1
+sector_excess_return,Energy_excess,2,10,OLS,95,0.16435058311117368,0.06486850967202762,,
+sector_excess_return,Energy_excess,2,10,Ridge,95,0.09173737720630704,-0.01638912550722771,177.82794100389228,
+sector_excess_return,Energy_excess,2,10,Lasso,95,0.04333458398732437,-0.07055415601418469,0.01,
+sector_excess_return,Energy_excess,2,10,ElasticNet,95,0.04041041347241192,-0.07382644206658684,0.1,0.1
+sector_excess_return,Financials_excess,2,10,OLS,95,0.15517912359984698,0.0546052097426859,,
+sector_excess_return,Financials_excess,2,10,Ridge,95,0.11241089606613508,0.006745526550198888,100.0,
+sector_excess_return,Financials_excess,2,10,Lasso,95,0.0,-0.11904761904761907,1.0,
+sector_excess_return,Financials_excess,2,10,ElasticNet,95,0.0,-0.11904761904761907,1.0,0.1
+sector_excess_return,Industrials_excess,2,10,OLS,95,0.053767429671795375,-0.05887930489108628,,
+sector_excess_return,Industrials_excess,2,10,Ridge,95,0.009973045247971934,-0.10788730650822176,1000.0,
+sector_excess_return,Industrials_excess,2,10,Lasso,95,0.0,-0.11904761904761907,1.0,
+sector_excess_return,Industrials_excess,2,10,ElasticNet,95,0.0,-0.11904761904761907,1.0,0.1
+sector_excess_return,Technology_excess,2,10,OLS,95,0.1440601891559482,0.04216259262689448,,
+sector_excess_return,Technology_excess,2,10,Ridge,95,0.04330317241081749,-0.07058930706408506,562.341325190349,
+sector_excess_return,Technology_excess,2,10,Lasso,95,0.0,-0.11904761904761907,1.0,
+sector_excess_return,Technology_excess,2,10,ElasticNet,95,0.0,-0.11904761904761907,1.0,0.1
+sector_excess_return,Consumer Staples_excess,2,10,OLS,95,0.09666921344325874,-0.010870165908734242,,
+sector_excess_return,Consumer Staples_excess,2,10,Ridge,95,0.01371574638240003,-0.10369904571493338,1000.0,
+sector_excess_return,Consumer Staples_excess,2,10,Lasso,95,0.016454573860867017,-0.10063416734617259,0.004641588833612777,
+sector_excess_return,Consumer Staples_excess,2,10,ElasticNet,95,0.0222116546455301,-0.0941917198014306,0.004641588833612777,0.9
+sector_excess_return,Real Estate_excess,2,10,OLS,95,0.11911969995423255,0.014252997567831716,,
+sector_excess_return,Real Estate_excess,2,10,Ridge,95,0.016127979584082852,-0.10099964189400246,1000.0,
+sector_excess_return,Real Estate_excess,2,10,Lasso,95,0.04605837354970477,-0.06750610578961624,0.0031622776601683794,
+sector_excess_return,Real Estate_excess,2,10,ElasticNet,95,0.045025373218717246,-0.0686620823504831,0.03162277660168379,0.1
+sector_excess_return,Utilities_excess,2,10,OLS,95,0.11180637524846415,0.006069038968519402,,
+sector_excess_return,Utilities_excess,2,10,Ridge,95,0.015803215825944017,-0.10136306800430073,1000.0,
+sector_excess_return,Utilities_excess,2,10,Lasso,95,0.0,-0.11904761904761907,1.0,
+sector_excess_return,Utilities_excess,2,10,ElasticNet,95,0.0,-0.11904761904761907,1.0,0.1
+sector_excess_return,Health Care_excess,2,10,OLS,95,0.09710148051038792,-0.010386438476470694,,
+sector_excess_return,Health Care_excess,2,10,Ridge,95,0.015859737496888515,-0.10129981756300555,1000.0,
+sector_excess_return,Health Care_excess,2,10,Lasso,95,0.0,-0.11904761904761907,0.006812920690579608,
+sector_excess_return,Health Care_excess,2,10,ElasticNet,95,0.0,-0.11904761904761907,0.021544346900318822,0.3
+sector_excess_return,Consumer Discretionary_excess,2,10,OLS,95,0.07077580857330046,-0.039846118977497236,,
+sector_excess_return,Consumer Discretionary_excess,2,10,Ridge,95,0.012158561808246038,-0.10544160940505809,1000.0,
+sector_excess_return,Consumer Discretionary_excess,2,10,Lasso,95,0.0,-0.11904761904761907,1.0,
+sector_excess_return,Consumer Discretionary_excess,2,10,ElasticNet,95,0.0,-0.11904761904761907,0.006812920690579608,0.9
+sector_excess_return,Materials_excess,2,13,OLS,95,0.13594397618303944,-0.0027316819604235043,,
+sector_excess_return,Materials_excess,2,13,Ridge,95,0.02553733207179898,-0.13085791092902332,1000.0,
+sector_excess_return,Materials_excess,2,13,Lasso,95,0.047369945427183535,-0.10552129789931786,0.004641588833612777,
+sector_excess_return,Materials_excess,2,13,ElasticNet,95,0.046024047182791294,-0.10708320450392117,0.046415888336127774,0.1
+sector_excess_return,Communication Services_excess,2,13,OLS,95,0.24772511102590222,0.12698963501771376,,
+sector_excess_return,Communication Services_excess,2,13,Ridge,95,0.1783860162450729,0.04652204354366485,100.0,
+sector_excess_return,Communication Services_excess,2,13,Lasso,95,0.14324391515835533,0.0057398521590789064,0.0031622776601683794,
+sector_excess_return,Communication Services_excess,2,13,ElasticNet,95,0.1400063408277612,0.001982667133451299,0.004641588833612777,0.7
+sector_excess_return,Energy_excess,2,13,OLS,95,0.1964549621181878,0.06749094369271169,,
+sector_excess_return,Energy_excess,2,13,Ridge,95,0.07825493218079049,-0.06967946141982351,316.22776601683796,
+sector_excess_return,Energy_excess,2,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+sector_excess_return,Energy_excess,2,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+sector_excess_return,Financials_excess,2,13,OLS,95,0.23202795741653248,0.10877318515005008,,
+sector_excess_return,Financials_excess,2,13,Ridge,95,0.16795497652868063,0.034416886341925634,100.0,
+sector_excess_return,Financials_excess,2,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+sector_excess_return,Financials_excess,2,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+sector_excess_return,Industrials_excess,2,13,OLS,95,0.177847195810531,0.04589674575543101,,
+sector_excess_return,Industrials_excess,2,13,Ridge,95,0.04825800078186204,-0.10449071514203667,562.341325190349,
+sector_excess_return,Industrials_excess,2,13,Lasso,95,0.05676512703981762,-0.09461824763280435,0.004641588833612777,
+sector_excess_return,Industrials_excess,2,13,ElasticNet,95,0.055113928110883004,-0.09653445379724679,0.046415888336127774,0.1
+sector_excess_return,Technology_excess,2,13,OLS,95,0.23997200856493006,0.11799220747041261,,
+sector_excess_return,Technology_excess,2,13,Ridge,95,0.13461622294950937,-0.004272531391927403,177.82794100389228,
+sector_excess_return,Technology_excess,2,13,Lasso,95,0.08943742156492929,-0.05670225151724262,0.004641588833612777,
+sector_excess_return,Technology_excess,2,13,ElasticNet,95,0.14300644733591827,0.005464272216991528,0.0031622776601683794,0.9
+sector_excess_return,Consumer Staples_excess,2,13,OLS,95,0.14126729276119887,0.0034459940685517276,,
+sector_excess_return,Consumer Staples_excess,2,13,Ridge,95,0.02103484754291529,-0.13608301643167842,1000.0,
+sector_excess_return,Consumer Staples_excess,2,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+sector_excess_return,Consumer Staples_excess,2,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+sector_excess_return,Real Estate_excess,2,13,OLS,95,0.14416491214557703,0.006808663477583132,,
+sector_excess_return,Real Estate_excess,2,13,Ridge,95,0.01683672391834168,-0.14095491298365292,1000.0,
+sector_excess_return,Real Estate_excess,2,13,Lasso,95,0.0,-0.16049382716049387,0.01,
+sector_excess_return,Real Estate_excess,2,13,ElasticNet,95,0.0,-0.16049382716049387,0.1,0.1
+sector_excess_return,Utilities_excess,2,13,OLS,95,0.1614340653964792,0.026849409225543797,,
+sector_excess_return,Utilities_excess,2,13,Ridge,95,0.025036937230107137,-0.1314386160539498,1000.0,
+sector_excess_return,Utilities_excess,2,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+sector_excess_return,Utilities_excess,2,13,ElasticNet,95,0.0,-0.16049382716049387,1.0,0.1
+sector_excess_return,Health Care_excess,2,13,OLS,95,0.10733021556713807,-0.03593777452702507,,
+sector_excess_return,Health Care_excess,2,13,Ridge,95,0.01749740271217959,-0.14018819932166826,1000.0,
+sector_excess_return,Health Care_excess,2,13,Lasso,95,0.0,-0.16049382716049387,0.01,
+sector_excess_return,Health Care_excess,2,13,ElasticNet,95,0.0,-0.16049382716049387,0.03162277660168379,0.3
+sector_excess_return,Consumer Discretionary_excess,2,13,OLS,95,0.10818263231027969,-0.03494855015844078,,
+sector_excess_return,Consumer Discretionary_excess,2,13,Ridge,95,0.014691565703207066,-0.14344435585059934,1000.0,
+sector_excess_return,Consumer Discretionary_excess,2,13,Lasso,95,0.0,-0.16049382716049387,1.0,
+sector_excess_return,Consumer Discretionary_excess,2,13,ElasticNet,95,0.0,-0.16049382716049387,0.006812920690579608,0.9

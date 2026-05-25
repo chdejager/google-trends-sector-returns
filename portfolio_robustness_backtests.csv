@@ -1,0 +1,296 @@
+date,strategy,return,holdings,longs,shorts
+2021-06-01,Google/PCA top-1,0.06690781512282595,Technology,,
+2021-07-01,Google/PCA top-1,0.04077714722510306,Technology,,
+2021-08-01,Google/PCA top-1,0.05147891574368413,Financials,,
+2021-09-01,Google/PCA top-1,-0.022656533473188856,Financials,,
+2021-10-01,Google/PCA top-1,0.11668687061094052,Energy,,
+2021-11-01,Google/PCA top-1,0.04451196197982621,Technology,,
+2021-12-01,Google/PCA top-1,0.03052389701063607,Technology,,
+2022-01-01,Google/PCA top-1,-0.06667958528157314,Technology,,
+2022-02-01,Google/PCA top-1,-0.04877438395546563,Technology,,
+2022-03-01,Google/PCA top-1,0.05720831236934276,Materials,,
+2022-04-01,Google/PCA top-1,-0.036581278457395006,Utilities,,
+2022-05-01,Google/PCA top-1,0.04308186139130776,Utilities,,
+2022-06-01,Google/PCA top-1,-0.03017467974640098,Health Care,,
+2022-07-01,Google/PCA top-1,0.13746663094756473,Technology,,
+2022-08-01,Google/PCA top-1,0.026524096919708473,Energy,,
+2022-09-01,Google/PCA top-1,-0.029256044503409462,Health Care,,
+2022-10-01,Google/PCA top-1,0.10048025377977754,Health Care,,
+2022-11-01,Google/PCA top-1,0.04723139335210891,Health Care,,
+2022-12-01,Google/PCA top-1,-0.05811067003002912,Financials,,
+2023-01-01,Google/PCA top-1,0.07570911924573709,Financials,,
+2023-02-01,Google/PCA top-1,0.0041190337598855375,Technology,,
+2023-03-01,Google/PCA top-1,0.10613796102867012,Technology,,
+2023-04-01,Google/PCA top-1,0.0010130974822268879,Technology,,
+2023-05-01,Google/PCA top-1,0.08917306919272616,Technology,,
+2023-06-01,Google/PCA top-1,0.058315205537907255,Technology,,
+2023-07-01,Google/PCA top-1,0.027974108242641904,Technology,,
+2023-08-01,Google/PCA top-1,-0.015082717906830245,Technology,,
+2023-09-01,Google/PCA top-1,-0.052358554258064904,Materials,,
+2023-10-01,Google/PCA top-1,0.0026249218118485906,Technology,,
+2023-11-01,Google/PCA top-1,0.12895568572659766,Technology,,
+2023-12-01,Google/PCA top-1,0.039533274190982404,Technology,,
+2024-01-01,Google/PCA top-1,0.029281718665037593,Technology,,
+2024-02-01,Google/PCA top-1,0.047045745572638964,Technology,,
+2024-03-01,Google/PCA top-1,0.006232399608830708,Technology,,
+2024-04-01,Google/PCA top-1,-0.056061220203576845,Technology,,
+2024-05-01,Google/PCA top-1,0.07076972036472395,Technology,,
+2024-06-01,Google/PCA top-1,0.02882524807692355,Communication Services,,
+2024-07-01,Google/PCA top-1,-0.031145923141372323,Technology,,
+2024-08-01,Google/PCA top-1,0.0069927866134096295,Technology,,
+2024-09-01,Google/PCA top-1,-0.009182227094204798,Financials,,
+2024-10-01,Google/PCA top-1,0.029315292036276697,Financials,,
+2024-11-01,Google/PCA top-1,0.10456097862346025,Financials,,
+2024-12-01,Google/PCA top-1,-0.005176913053540733,Technology,,
+2025-01-01,Google/PCA top-1,-0.005727873873666245,Technology,,
+2025-02-01,Google/PCA top-1,-0.022875909281760642,Technology,,
+2025-03-01,Google/PCA top-1,-0.08446764369635351,Technology,,
+2025-04-01,Google/PCA top-1,0.018687853639658414,Technology,,
+2025-05-01,Google/PCA top-1,0.09972846872939423,Technology,,
+2025-06-01,Google/PCA top-1,0.02766867220915259,Financials,,
+2025-07-01,Google/PCA top-1,0.0034271445171532022,Financials,,
+2025-08-01,Google/PCA top-1,0.030933778483985375,Financials,,
+2025-09-01,Google/PCA top-1,-0.0022226285104356425,Financials,,
+2025-10-01,Google/PCA top-1,0.06814171875540165,Technology,,
+2025-11-01,Google/PCA top-1,-0.04809087904861853,Technology,,
+2025-12-01,Google/PCA top-1,0.020192328295371542,Communication Services,,
+2026-01-01,Google/PCA top-1,0.0008908275056329629,Technology,,
+2026-02-01,Google/PCA top-1,-0.03558535174154043,Technology,,
+2026-03-01,Google/PCA top-1,0.09549362861067423,Energy,,
+2026-04-01,Google/PCA top-1,0.20164277902148298,Technology,,
+2021-06-01,Google/PCA top-3,0.021908226503599543,"Technology, Consumer Discretionary, Financials",,
+2021-07-01,Google/PCA top-3,0.03555479768704265,"Technology, Industrials, Health Care",,
+2021-08-01,Google/PCA top-3,0.02234260151916508,"Financials, Technology, Energy",,
+2021-09-01,Google/PCA top-3,-0.0021566202002558286,"Financials, Energy, Technology",,
+2021-10-01,Google/PCA top-3,0.09258225339898922,"Energy, Financials, Technology",,
+2021-11-01,Google/PCA top-3,0.0012463352537701589,"Technology, Consumer Discretionary, Financials",,
+2021-12-01,Google/PCA top-3,0.03364377274223259,"Technology, Consumer Discretionary, Materials",,
+2022-01-01,Google/PCA top-3,-0.061868492485167424,"Technology, Utilities, Consumer Discretionary",,
+2022-02-01,Google/PCA top-3,-0.03450611708309633,"Technology, Consumer Discretionary, Consumer Staples",,
+2022-03-01,Google/PCA top-3,0.04380560273046985,"Materials, Technology, Consumer Discretionary",,
+2022-04-01,Google/PCA top-3,-0.05895771291447446,"Utilities, Materials, Technology",,
+2022-05-01,Google/PCA top-3,0.015994428614216145,"Utilities, Materials, Technology",,
+2022-06-01,Google/PCA top-3,-0.08887034327612764,"Health Care, Energy, Utilities",,
+2022-07-01,Google/PCA top-3,0.12046458953392632,"Technology, Health Care, Consumer Discretionary",,
+2022-08-01,Google/PCA top-3,-0.031102425960202112,"Energy, Technology, Health Care",,
+2022-09-01,Google/PCA top-3,-0.08547909173967276,"Health Care, Technology, Energy",,
+2022-10-01,Google/PCA top-3,0.14764818805919044,"Health Care, Energy, Technology",,
+2022-11-01,Google/PCA top-3,0.07761233222747317,"Health Care, Materials, Financials",,
+2022-12-01,Google/PCA top-3,-0.05521456797761674,"Financials, Health Care, Technology",,
+2023-01-01,Google/PCA top-3,0.08940255446616534,"Financials, Materials, Technology",,
+2023-02-01,Google/PCA top-3,-0.017390246938128923,"Technology, Financials, Materials",,
+2023-03-01,Google/PCA top-3,0.04523369599262569,"Technology, Consumer Discretionary, Industrials",,
+2023-04-01,Google/PCA top-3,0.00941907504384576,"Technology, Health Care, Consumer Discretionary",,
+2023-05-01,Google/PCA top-3,0.023949288138593983,"Technology, Consumer Discretionary, Health Care",,
+2023-06-01,Google/PCA top-3,0.09548846978187231,"Technology, Consumer Discretionary, Industrials",,
+2023-07-01,Google/PCA top-3,0.02872526562356296,"Technology, Consumer Discretionary, Industrials",,
+2023-08-01,Google/PCA top-3,-0.005353877203460182,"Technology, Consumer Discretionary, Energy",,
+2023-09-01,Google/PCA top-3,-0.023673920388110965,"Materials, Financials, Energy",,
+2023-10-01,Google/PCA top-3,-0.02499351712769345,"Technology, Materials, Energy",,
+2023-11-01,Google/PCA top-3,0.11600493521169881,"Technology, Financials, Consumer Discretionary",,
+2023-12-01,Google/PCA top-3,0.04679378181569375,"Technology, Consumer Discretionary, Communication Services",,
+2024-01-01,Google/PCA top-3,0.011249277172715807,"Technology, Communication Services, Consumer Discretionary",,
+2024-02-01,Google/PCA top-3,0.05727774244428696,"Technology, Consumer Discretionary, Communication Services",,
+2024-03-01,Google/PCA top-3,0.025402003076679797,"Technology, Communication Services, Industrials",,
+2024-04-01,Google/PCA top-3,-0.04763579429329664,"Technology, Communication Services, Consumer Discretionary",,
+2024-05-01,Google/PCA top-3,0.0521669819184134,"Technology, Communication Services, Industrials",,
+2024-06-01,Google/PCA top-3,0.04727697889114668,"Communication Services, Technology, Consumer Discretionary",,
+2024-07-01,Google/PCA top-3,0.013735761415797096,"Technology, Financials, Communication Services",,
+2024-08-01,Google/PCA top-3,0.0031708798560727836,"Technology, Energy, Materials",,
+2024-09-01,Google/PCA top-3,0.012578762390072681,"Financials, Technology, Materials",,
+2024-10-01,Google/PCA top-3,0.012241199031347572,"Financials, Technology, Communication Services",,
+2024-11-01,Google/PCA top-3,0.07512069282545826,"Financials, Technology, Communication Services",,
+2024-12-01,Google/PCA top-3,-0.02665467297725303,"Technology, Communication Services, Financials",,
+2025-01-01,Google/PCA top-3,0.04135614613503317,"Technology, Financials, Communication Services",,
+2025-02-01,Google/PCA top-3,-0.004264410854587619,"Technology, Communication Services, Financials",,
+2025-03-01,Google/PCA top-3,-0.03731875972478834,"Technology, Communication Services, Energy",,
+2025-04-01,Google/PCA top-3,0.00821471005470927,"Technology, Industrials, Consumer Discretionary",,
+2025-05-01,Google/PCA top-3,0.0777496300121403,"Technology, Financials, Industrials",,
+2025-06-01,Google/PCA top-3,0.052412733465255545,"Financials, Technology, Industrials",,
+2025-07-01,Google/PCA top-3,0.025424740099035354,"Financials, Technology, Industrials",,
+2025-08-01,Google/PCA top-3,0.009943317880173627,"Financials, Technology, Industrials",,
+2025-09-01,Google/PCA top-3,0.035274742062354036,"Financials, Technology, Consumer Discretionary",,
+2025-10-01,Google/PCA top-3,0.026884355713219527,"Technology, Consumer Discretionary, Industrials",,
+2025-11-01,Google/PCA top-3,0.01011362300439241,"Technology, Consumer Discretionary, Health Care",,
+2025-12-01,Google/PCA top-3,0.012060707325305101,"Communication Services, Technology, Consumer Discretionary",,
+2026-01-01,Google/PCA top-3,0.03147428285287742,"Technology, Communication Services, Industrials",,
+2026-02-01,Google/PCA top-3,0.04351058094161101,"Technology, Energy, Industrials",,
+2026-03-01,Google/PCA top-3,-0.0037149717863329914,"Energy, Technology, Materials",,
+2026-04-01,Google/PCA top-3,0.08806999310121695,"Technology, Energy, Industrials",,
+2021-06-01,Google/PCA top-5,0.011772459544586233,"Technology, Consumer Discretionary, Financials, Industrials, Health Care",,
+2021-07-01,Google/PCA top-5,0.026236124838302243,"Technology, Industrials, Health Care, Materials, Financials",,
+2021-08-01,Google/PCA top-5,0.020759582433298986,"Financials, Technology, Energy, Consumer Discretionary, Materials",,
+2021-09-01,Google/PCA top-5,-0.018632202032404677,"Financials, Energy, Technology, Consumer Discretionary, Industrials",,
+2021-10-01,Google/PCA top-5,0.09435316982062303,"Energy, Financials, Technology, Consumer Discretionary, Industrials",,
+2021-11-01,Google/PCA top-5,-0.010379209758805352,"Technology, Consumer Discretionary, Financials, Energy, Materials",,
+2021-12-01,Google/PCA top-5,0.047394173321514854,"Technology, Consumer Discretionary, Materials, Health Care, Industrials",,
+2022-01-01,Google/PCA top-5,-0.051724084714851834,"Technology, Utilities, Consumer Discretionary, Consumer Staples, Health Care",,
+2022-02-01,Google/PCA top-5,-0.008500797517597247,"Technology, Consumer Discretionary, Consumer Staples, Health Care, Energy",,
+2022-03-01,Google/PCA top-5,0.0432888920334936,"Materials, Technology, Consumer Discretionary, Health Care, Industrials",,
+2022-04-01,Google/PCA top-5,-0.06820598562778066,"Utilities, Materials, Technology, Health Care, Consumer Discretionary",,
+2022-05-01,Google/PCA top-5,0.044643797181528576,"Utilities, Materials, Technology, Energy, Health Care",,
+2022-06-01,Google/PCA top-5,-0.10120090574225626,"Health Care, Energy, Utilities, Technology, Materials",,
+2022-07-01,Google/PCA top-5,0.10664610579258116,"Technology, Health Care, Consumer Discretionary, Energy, Utilities",,
+2022-08-01,Google/PCA top-5,-0.02659767384926639,"Energy, Technology, Health Care, Utilities, Consumer Discretionary",,
+2022-09-01,Google/PCA top-5,-0.08770991519049813,"Health Care, Technology, Energy, Consumer Discretionary, Materials",,
+2022-10-01,Google/PCA top-5,0.1424925982605128,"Health Care, Energy, Technology, Financials, Industrials",,
+2022-11-01,Google/PCA top-5,0.06177639055153712,"Health Care, Materials, Financials, Technology, Energy",,
+2022-12-01,Google/PCA top-5,-0.048104634864202064,"Financials, Health Care, Technology, Energy, Industrials",,
+2023-01-01,Google/PCA top-5,0.0697867431741666,"Financials, Materials, Technology, Energy, Industrials",,
+2023-02-01,Google/PCA top-5,-0.016412260645639186,"Technology, Financials, Materials, Industrials, Consumer Discretionary",,
+2023-03-01,Google/PCA top-5,0.03901863486087627,"Technology, Consumer Discretionary, Industrials, Health Care, Utilities",,
+2023-04-01,Google/PCA top-5,0.011828780205205369,"Technology, Health Care, Consumer Discretionary, Industrials, Energy",,
+2023-05-01,Google/PCA top-5,-0.003673010606801741,"Technology, Consumer Discretionary, Health Care, Industrials, Utilities",,
+2023-06-01,Google/PCA top-5,0.07691929983575667,"Technology, Consumer Discretionary, Industrials, Health Care, Energy",,
+2023-07-01,Google/PCA top-5,0.04642598458747447,"Technology, Consumer Discretionary, Industrials, Energy, Communication Services",,
+2023-08-01,Google/PCA top-5,-0.010260842327752973,"Technology, Consumer Discretionary, Energy, Industrials, Communication Services",,
+2023-09-01,Google/PCA top-5,-0.04021795083878514,"Materials, Financials, Energy, Technology, Industrials",,
+2023-10-01,Google/PCA top-5,-0.02417516734897147,"Technology, Materials, Energy, Financials, Industrials",,
+2023-11-01,Google/PCA top-5,0.10287844283659923,"Technology, Financials, Consumer Discretionary, Communication Services, Industrials",,
+2023-12-01,Google/PCA top-5,0.05051293325474706,"Technology, Consumer Discretionary, Communication Services, Industrials, Financials",,
+2024-01-01,Google/PCA top-5,0.012690908995450823,"Technology, Communication Services, Consumer Discretionary, Industrials, Health Care",,
+2024-02-01,Google/PCA top-5,0.05506034726727638,"Technology, Consumer Discretionary, Communication Services, Industrials, Health Care",,
+2024-03-01,Google/PCA top-5,0.026851691798567123,"Technology, Communication Services, Industrials, Consumer Discretionary, Materials",,
+2024-04-01,Google/PCA top-5,-0.04352166999590408,"Technology, Communication Services, Consumer Discretionary, Industrials, Materials",,
+2024-05-01,Google/PCA top-5,0.03824286716955139,"Technology, Communication Services, Industrials, Consumer Discretionary, Materials",,
+2024-06-01,Google/PCA top-5,0.018674573707059806,"Communication Services, Technology, Consumer Discretionary, Industrials, Materials",,
+2024-07-01,Google/PCA top-5,0.024954856076559718,"Technology, Financials, Communication Services, Industrials, Energy",,
+2024-08-01,Google/PCA top-5,0.016678660798285127,"Technology, Energy, Materials, Industrials, Financials",,
+2024-09-01,Google/PCA top-5,0.020656805330250362,"Financials, Technology, Materials, Industrials, Communication Services",,
+2024-10-01,Google/PCA top-5,0.00026935953971392036,"Financials, Technology, Communication Services, Materials, Industrials",,
+2024-11-01,Google/PCA top-5,0.08606728264787163,"Financials, Technology, Communication Services, Consumer Discretionary, Industrials",,
+2024-12-01,Google/PCA top-5,-0.031135769884357022,"Technology, Communication Services, Financials, Consumer Discretionary, Industrials",,
+2025-01-01,Google/PCA top-5,0.04323695097836644,"Technology, Financials, Communication Services, Consumer Discretionary, Industrials",,
+2025-02-01,Google/PCA top-5,-0.019442702227217425,"Technology, Communication Services, Financials, Consumer Discretionary, Industrials",,
+2025-03-01,Google/PCA top-5,-0.045788129474173656,"Technology, Communication Services, Energy, Consumer Discretionary, Materials",,
+2025-04-01,Google/PCA top-5,-0.025374239931859964,"Technology, Industrials, Consumer Discretionary, Energy, Materials",,
+2025-05-01,Google/PCA top-5,0.07590907764974526,"Technology, Financials, Industrials, Consumer Discretionary, Communication Services",,
+2025-06-01,Google/PCA top-5,0.048812895103835754,"Financials, Technology, Industrials, Communication Services, Consumer Discretionary",,
+2025-07-01,Google/PCA top-5,0.026793854909893965,"Financials, Technology, Industrials, Consumer Discretionary, Energy",,
+2025-08-01,Google/PCA top-5,0.025650936164355053,"Financials, Technology, Industrials, Consumer Discretionary, Materials",,
+2025-09-01,Google/PCA top-5,0.036618257882881575,"Financials, Technology, Consumer Discretionary, Communication Services, Industrials",,
+2025-10-01,Google/PCA top-5,0.01650188639461838,"Technology, Consumer Discretionary, Industrials, Communication Services, Utilities",,
+2025-11-01,Google/PCA top-5,0.007735462931084092,"Technology, Consumer Discretionary, Health Care, Industrials, Utilities",,
+2025-12-01,Google/PCA top-5,0.00902116287023993,"Communication Services, Technology, Consumer Discretionary, Financials, Health Care",,
+2026-01-01,Google/PCA top-5,0.040644002659422404,"Technology, Communication Services, Industrials, Materials, Consumer Discretionary",,
+2026-02-01,Google/PCA top-5,0.06362845957219651,"Technology, Energy, Industrials, Materials, Utilities",,
+2026-03-01,Google/PCA top-5,-0.03311386544584538,"Energy, Technology, Materials, Industrials, Consumer Discretionary",,
+2026-04-01,Google/PCA top-5,0.07739382907379302,"Technology, Energy, Industrials, Consumer Discretionary, Materials",,
+2021-06-01,Google/PCA long top-3 short bottom-3,0.025137284462253197,,"Technology, Consumer Discretionary, Financials","Consumer Staples, Utilities, Energy"
+2021-07-01,Google/PCA long top-3 short bottom-3,0.03345769517458992,,"Technology, Industrials, Health Care","Utilities, Consumer Staples, Energy"
+2021-08-01,Google/PCA long top-3 short bottom-3,-0.003482278006144684,,"Financials, Technology, Energy","Real Estate, Utilities, Consumer Staples"
+2021-09-01,Google/PCA long top-3 short bottom-3,0.05886398819574985,,"Financials, Energy, Technology","Real Estate, Utilities, Consumer Staples"
+2021-10-01,Google/PCA long top-3 short bottom-3,0.03302705002735788,,"Energy, Financials, Technology","Real Estate, Utilities, Consumer Staples"
+2021-11-01,Google/PCA long top-3 short bottom-3,0.014414239935176543,,"Technology, Consumer Discretionary, Financials","Real Estate, Utilities, Consumer Staples"
+2021-12-01,Google/PCA long top-3 short bottom-3,-0.03370114115719177,,"Technology, Consumer Discretionary, Materials","Consumer Staples, Utilities, Energy"
+2022-01-01,Google/PCA long top-3 short bottom-3,-0.08234032487956293,,"Technology, Utilities, Consumer Discretionary","Real Estate, Energy, Materials"
+2022-02-01,Google/PCA long top-3 short bottom-3,-0.007560374206433188,,"Technology, Consumer Discretionary, Consumer Staples","Real Estate, Utilities, Financials"
+2022-03-01,Google/PCA long top-3 short bottom-3,0.013455068608476489,,"Materials, Technology, Consumer Discretionary","Energy, Consumer Staples, Financials"
+2022-04-01,Google/PCA long top-3 short bottom-3,-0.00014716958658937684,,"Utilities, Materials, Technology","Energy, Industrials, Financials"
+2022-05-01,Google/PCA long top-3 short bottom-3,0.037355792256932974,,"Utilities, Materials, Technology","Real Estate, Consumer Staples, Financials"
+2022-06-01,Google/PCA long top-3 short bottom-3,0.01103337999495757,,"Health Care, Energy, Utilities","Consumer Discretionary, Real Estate, Financials"
+2022-07-01,Google/PCA long top-3 short bottom-3,0.05005508315567822,,"Technology, Health Care, Consumer Discretionary","Consumer Staples, Real Estate, Financials"
+2022-08-01,Google/PCA long top-3 short bottom-3,0.0003182856713221903,,"Energy, Technology, Health Care","Consumer Staples, Real Estate, Financials"
+2022-09-01,Google/PCA long top-3 short bottom-3,0.01725538232874191,,"Health Care, Technology, Energy","Financials, Consumer Staples, Real Estate"
+2022-10-01,Google/PCA long top-3 short bottom-3,0.09673952410185063,,"Health Care, Energy, Technology","Utilities, Consumer Staples, Real Estate"
+2022-11-01,Google/PCA long top-3 short bottom-3,0.011230784256142323,,"Health Care, Materials, Financials","Utilities, Consumer Staples, Real Estate"
+2022-12-01,Google/PCA long top-3 short bottom-3,0.014599149771319188,,"Financials, Health Care, Technology","Consumer Discretionary, Consumer Staples, Real Estate"
+2023-01-01,Google/PCA long top-3 short bottom-3,0.057458448226132115,,"Financials, Materials, Technology","Utilities, Real Estate, Consumer Staples"
+2023-02-01,Google/PCA long top-3 short bottom-3,0.029617471120913248,,"Technology, Financials, Materials","Utilities, Consumer Staples, Real Estate"
+2023-03-01,Google/PCA long top-3 short bottom-3,0.0905550099186112,,"Technology, Consumer Discretionary, Industrials","Real Estate, Materials, Financials"
+2023-04-01,Google/PCA long top-3 short bottom-3,-0.009551490572078936,,"Technology, Health Care, Consumer Discretionary","Real Estate, Materials, Financials"
+2023-05-01,Google/PCA long top-3 short bottom-3,0.07610241758247926,,"Technology, Consumer Discretionary, Health Care","Real Estate, Financials, Materials"
+2023-06-01,Google/PCA long top-3 short bottom-3,0.024882005378007818,,"Technology, Consumer Discretionary, Industrials","Real Estate, Materials, Financials"
+2023-07-01,Google/PCA long top-3 short bottom-3,-0.00968626411566283,,"Technology, Consumer Discretionary, Industrials","Real Estate, Financials, Materials"
+2023-08-01,Google/PCA long top-3 short bottom-3,0.024826104259799732,,"Technology, Consumer Discretionary, Energy","Materials, Real Estate, Financials"
+2023-09-01,Google/PCA long top-3 short bottom-3,0.042320699189105165,,"Materials, Financials, Energy","Consumer Staples, Utilities, Real Estate"
+2023-10-01,Google/PCA long top-3 short bottom-3,-0.022745836858760304,,"Technology, Materials, Energy","Consumer Staples, Utilities, Real Estate"
+2023-11-01,Google/PCA long top-3 short bottom-3,0.04351579434115185,,"Technology, Financials, Consumer Discretionary","Consumer Staples, Utilities, Real Estate"
+2023-12-01,Google/PCA long top-3 short bottom-3,0.04021997328601763,,"Technology, Consumer Discretionary, Communication Services","Energy, Consumer Staples, Utilities"
+2024-01-01,Google/PCA long top-3 short bottom-3,0.04151989459447195,,"Technology, Communication Services, Consumer Discretionary","Real Estate, Utilities, Materials"
+2024-02-01,Google/PCA long top-3 short bottom-3,0.018471532077493524,,"Technology, Consumer Discretionary, Communication Services","Materials, Utilities, Financials"
+2024-03-01,Google/PCA long top-3 short bottom-3,-0.005784545537157609,,"Technology, Communication Services, Industrials","Utilities, Consumer Staples, Real Estate"
+2024-04-01,Google/PCA long top-3 short bottom-3,-0.007495618471375663,,"Technology, Communication Services, Consumer Discretionary","Consumer Staples, Real Estate, Financials"
+2024-05-01,Google/PCA long top-3 short bottom-3,0.01634005371684988,,"Technology, Communication Services, Industrials","Consumer Staples, Financials, Real Estate"
+2024-06-01,Google/PCA long top-3 short bottom-3,0.0683925442593069,,"Communication Services, Technology, Consumer Discretionary","Consumer Staples, Utilities, Real Estate"
+2024-07-01,Google/PCA long top-3 short bottom-3,-0.047726091100027346,,"Technology, Financials, Communication Services","Utilities, Real Estate, Consumer Staples"
+2024-08-01,Google/PCA long top-3 short bottom-3,-0.05190838227417668,,"Technology, Energy, Materials","Real Estate, Utilities, Consumer Staples"
+2024-09-01,Google/PCA long top-3 short bottom-3,-0.017591298718212744,,"Financials, Technology, Materials","Utilities, Consumer Staples, Real Estate"
+2024-10-01,Google/PCA long top-3 short bottom-3,0.045095960433093496,,"Financials, Technology, Communication Services","Health Care, Real Estate, Consumer Staples"
+2024-11-01,Google/PCA long top-3 short bottom-3,0.04710893610556166,,"Financials, Technology, Communication Services","Health Care, Real Estate, Consumer Staples"
+2024-12-01,Google/PCA long top-3 short bottom-3,0.061304505054825764,,"Technology, Communication Services, Financials","Real Estate, Consumer Staples, Materials"
+2025-01-01,Google/PCA long top-3 short bottom-3,0.007192014164385786,,"Technology, Financials, Communication Services","Real Estate, Consumer Staples, Materials"
+2025-02-01,Google/PCA long top-3 short bottom-3,-0.035378163788034864,,"Technology, Communication Services, Financials","Materials, Real Estate, Consumer Staples"
+2025-03-01,Google/PCA long top-3 short bottom-3,-0.020062239736355385,,"Technology, Communication Services, Energy","Utilities, Real Estate, Consumer Staples"
+2025-04-01,Google/PCA long top-3 short bottom-3,0.010582162606288897,,"Technology, Industrials, Consumer Discretionary","Communication Services, Real Estate, Consumer Staples"
+2025-05-01,Google/PCA long top-3 short bottom-3,0.06047067826225794,,"Technology, Financials, Industrials","Consumer Staples, Real Estate, Materials"
+2025-06-01,Google/PCA long top-3 short bottom-3,0.05669894731359478,,"Financials, Technology, Industrials","Materials, Real Estate, Consumer Staples"
+2025-07-01,Google/PCA long top-3 short bottom-3,0.035920288931323964,,"Financials, Technology, Industrials","Health Care, Consumer Staples, Materials"
+2025-08-01,Google/PCA long top-3 short bottom-3,-0.019369035458145355,,"Financials, Technology, Industrials","Health Care, Real Estate, Consumer Staples"
+2025-09-01,Google/PCA long top-3 short bottom-3,0.04241720928335516,,"Financials, Technology, Consumer Discretionary","Health Care, Real Estate, Consumer Staples"
+2025-10-01,Google/PCA long top-3 short bottom-3,0.053988861129303234,,"Technology, Consumer Discretionary, Industrials","Materials, Real Estate, Consumer Staples"
+2025-11-01,Google/PCA long top-3 short bottom-3,-0.011348685000988215,,"Technology, Consumer Discretionary, Health Care","Communication Services, Real Estate, Consumer Staples"
+2025-12-01,Google/PCA long top-3 short bottom-3,0.04902671541866366,,"Communication Services, Technology, Consumer Discretionary","Utilities, Real Estate, Consumer Staples"
+2026-01-01,Google/PCA long top-3 short bottom-3,0.0188669234930241,,"Technology, Communication Services, Industrials","Utilities, Real Estate, Financials"
+2026-02-01,Google/PCA long top-3 short bottom-3,0.04229296884380636,,"Technology, Energy, Industrials","Real Estate, Communication Services, Financials"
+2026-03-01,Google/PCA long top-3 short bottom-3,0.05282493286141887,,"Energy, Technology, Materials","Real Estate, Communication Services, Financials"
+2026-04-01,Google/PCA long top-3 short bottom-3,0.05626762836521996,,"Technology, Energy, Industrials","Consumer Staples, Health Care, Financials"
+2021-06-01,Momentum top-3,-0.01971734601715906,"Energy, Materials, Financials",,
+2021-07-01,Momentum top-3,-0.006995978880442381,"Technology, Consumer Discretionary, Energy",,
+2021-08-01,Momentum top-3,0.030047405266749132,"Health Care, Real Estate, Utilities",,
+2021-09-01,Momentum top-3,-0.051666697764157256,"Financials, Communication Services, Utilities",,
+2021-10-01,Momentum top-3,0.1055582997721285,"Energy, Financials, Consumer Discretionary",,
+2021-11-01,Momentum top-3,0.0035848463045093926,"Consumer Discretionary, Energy, Technology",,
+2021-12-01,Momentum top-3,0.03364377274223259,"Technology, Consumer Discretionary, Materials",,
+2022-01-01,Momentum top-3,-0.037142875855565416,"Consumer Staples, Real Estate, Utilities",,
+2022-02-01,Momentum top-3,0.014260881199254468,"Energy, Financials, Consumer Staples",,
+2022-03-01,Momentum top-3,0.05601798977561856,"Energy, Industrials, Health Care",,
+2022-04-01,Momentum top-3,-0.024708250015794946,"Utilities, Energy, Real Estate",,
+2022-05-01,Momentum top-3,0.022814482622537564,"Consumer Staples, Energy, Real Estate",,
+2022-06-01,Momentum top-3,-0.11659052616158867,"Energy, Utilities, Financials",,
+2022-07-01,Momentum top-3,0.046486475879709145,"Health Care, Consumer Staples, Utilities",,
+2022-08-01,Momentum top-3,-0.026852666841955714,"Consumer Discretionary, Technology, Energy",,
+2022-09-01,Momentum top-3,-0.10379528493696939,"Energy, Utilities, Consumer Staples",,
+2022-10-01,Momentum top-3,0.07960423214283008,"Health Care, Financials, Consumer Discretionary",,
+2022-11-01,Momentum top-3,0.05315359717034459,"Energy, Industrials, Financials",,
+2022-12-01,Momentum top-3,-0.036264958093619626,"Materials, Industrials, Utilities",,
+2023-01-01,Momentum top-3,-0.010013060017569889,"Utilities, Health Care, Consumer Staples",,
+2023-02-01,Momentum top-3,-0.03619052198995506,"Consumer Discretionary, Communication Services, Real Estate",,
+2023-03-01,Momentum top-3,0.04523369599262569,"Technology, Industrials, Consumer Discretionary",,
+2023-04-01,Momentum top-3,0.02123338103153956,"Technology, Communication Services, Utilities",,
+2023-05-01,Momentum top-3,-0.06814051584271463,"Consumer Staples, Energy, Financials",,
+2023-06-01,Momentum top-3,0.0746632789393092,"Technology, Communication Services, Consumer Discretionary",,
+2023-07-01,Momentum top-3,0.032555352347145794,"Consumer Discretionary, Industrials, Materials",,
+2023-08-01,Momentum top-3,-0.00861257194838235,"Energy, Communication Services, Financials",,
+2023-09-01,Momentum top-3,-0.027933640240133967,"Energy, Health Care, Technology",,
+2023-10-01,Momentum top-3,-0.029910192231863603,"Energy, Communication Services, Health Care",,
+2023-11-01,Momentum top-3,0.07388318363918282,"Utilities, Technology, Consumer Staples",,
+2023-12-01,Momentum top-3,0.05832449395014624,"Technology, Real Estate, Consumer Discretionary",,
+2024-01-01,Momentum top-3,-0.0282332944198523,"Real Estate, Industrials, Consumer Discretionary",,
+2024-02-01,Momentum top-3,0.03941800079732194,"Communication Services, Financials, Health Care",,
+2024-03-01,Momentum top-3,0.03301471314317147,"Consumer Discretionary, Industrials, Materials",,
+2024-04-01,Momentum top-3,-0.006284327728939128,"Energy, Materials, Utilities",,
+2024-05-01,Momentum top-3,0.03685018073371904,"Utilities, Energy, Consumer Staples",,
+2024-06-01,Momentum top-3,0.014103116502203195,"Utilities, Technology, Communication Services",,
+2024-07-01,Momentum top-3,0.0010456258926684336,"Technology, Consumer Discretionary, Communication Services",,
+2024-08-01,Momentum top-3,0.05036792362870868,"Real Estate, Utilities, Financials",,
+2024-09-01,Momentum top-3,0.003809046671543359,"Consumer Staples, Real Estate, Health Care",,
+2024-10-01,Momentum top-3,0.0006083142565233013,"Consumer Discretionary, Utilities, Communication Services",,
+2024-11-01,Momentum top-3,0.08399988993294934,"Financials, Communication Services, Energy",,
+2024-12-01,Momentum top-3,-0.0509083041087001,"Consumer Discretionary, Financials, Energy",,
+2025-01-01,Momentum top-3,0.030458078484457658,"Consumer Discretionary, Technology, Communication Services",,
+2025-02-01,Momentum top-3,0.009160835089128646,"Health Care, Financials, Materials",,
+2025-03-01,Momentum top-3,-0.006725286224219307,"Consumer Staples, Real Estate, Energy",,
+2025-04-01,Momentum top-3,-0.03895189745486568,"Energy, Utilities, Consumer Staples",,
+2025-05-01,Momentum top-3,0.05007507754736892,"Technology, Utilities, Consumer Staples",,
+2025-06-01,Momentum top-3,0.04869343029453469,"Technology, Industrials, Consumer Discretionary",,
+2025-07-01,Momentum top-3,0.02267342440015489,"Technology, Communication Services, Energy",,
+2025-08-01,Momentum top-3,0.0065339410124060455,"Utilities, Technology, Energy",,
+2025-09-01,Momentum top-3,0.005975219235397122,"Health Care, Materials, Consumer Discretionary",,
+2025-10-01,Momentum top-3,0.023332694529611658,"Technology, Communication Services, Utilities",,
+2025-11-01,Momentum top-3,0.020658356820593287,"Technology, Health Care, Utilities",,
+2025-12-01,Momentum top-3,-0.00827644222595958,"Health Care, Materials, Consumer Staples",,
+2026-01-01,Momentum top-3,0.031507904457311074,"Financials, Communication Services, Materials",,
+2026-02-01,Momentum top-3,0.08575279669400304,"Energy, Materials, Consumer Staples",,
+2026-03-01,Momentum top-3,-0.0024879659389367426,"Utilities, Energy, Materials",,
+2026-04-01,Momentum top-3,0.023156673881572536,"Energy, Utilities, Financials",,
