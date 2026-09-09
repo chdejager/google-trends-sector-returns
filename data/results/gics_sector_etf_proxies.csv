@@ -1,0 +1,12 @@
+GICS sector,ETF ticker,ETF proxy,Sample note
+Materials,XLB,Materials Select Sector SPDR Fund,Full study-period history available
+Communication Services,XLC,Communication Services Select Sector SPDR Fund,Shorter history following the 2018 GICS Communication Services reclassification
+Energy,XLE,Energy Select Sector SPDR Fund,Full study-period history available
+Financials,XLF,Financial Select Sector SPDR Fund,Full study-period history available
+Industrials,XLI,Industrial Select Sector SPDR Fund,Full study-period history available
+Technology,XLK,Technology Select Sector SPDR Fund,Full study-period history available
+Consumer Staples,XLP,Consumer Staples Select Sector SPDR Fund,Full study-period history available
+Real Estate,XLRE,Real Estate Select Sector SPDR Fund,Full study-period history available
+Utilities,XLU,Utilities Select Sector SPDR Fund,Full study-period history available
+Health Care,XLV,Health Care Select Sector SPDR Fund,Full study-period history available
+Consumer Discretionary,XLY,Consumer Discretionary Select Sector SPDR Fund,Full study-period history available

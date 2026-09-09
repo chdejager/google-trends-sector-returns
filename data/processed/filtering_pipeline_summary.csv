@@ -1,0 +1,6 @@
+Stage,Filtering criterion,Keywords before,Keywords removed,Keywords remaining,Share removed at stage,Share of initial universe retained
+Initial keyword universe,All successfully collected unique keywords,1446,0,1446,0.0,1.0
+Missing-value filter,Remove keywords with at least 70% missing values,1446,0,1446,0.0,1.0
+Zero-value filter,Remove keywords with at least 70% zero values,1446,967,479,0.6687413554633471,0.3312586445366528
+Mean-interest filter,Remove keywords with mean interest below 15,479,287,192,0.5991649269311065,0.13278008298755187
+Manual relevance screen,Remove standalone firms and non-relevant consumer/media terms,192,29,163,0.15104166666666666,0.11272475795297372
