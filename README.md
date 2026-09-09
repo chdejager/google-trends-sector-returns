@@ -2,7 +2,7 @@
 
 This project studies whether Google Trends search-attention factors help explain or predict GICS sector returns. The workflow builds a cleaned Google Trends keyword panel, extracts principal components, and evaluates their relationship to sector ETF returns.
 
-**Paper:** [Googling the Market: Latent Attention factors and Sector-Level Equity Return Predictability] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6971058)
+**Paper:** [Googling the Market: Latent Attention factors and Sector-Level Equity Return Predictability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6971058)
 
 ## Project Summary
 
@@ -16,6 +16,10 @@ Investor attention is difficult to observe directly, but search behavior offers 
 - Out-of-sample return forecasts are modest overall, with average OOS R2 generally close to zero or negative across model classes.
 - A Top-3 sector rotation strategy based on predicted excess returns achieved a 1.47 Sharpe ratio over the out-of-sample period, compared with 0.85 for SPY and 0.83 for a one-month momentum benchmark. These backtest results should be interpreted as evidence of cross-sectional ranking ability rather than as estimates of live trading performance.
 
+![Top-3 sector rotation backtest](figures/top3_sector_rotation_backtest.png)
+
+*Cumulative growth of $1 over the out-of-sample backtest period. The Google/PCA Top-3 strategy is compared with SPY, an equal-weight sector benchmark, and a one-month sector momentum benchmark.*
+
 ## Repository Structure
 
 - `notebooks/`: analysis notebooks in execution order.
@@ -26,7 +30,7 @@ Investor attention is difficult to observe directly, but search behavior offers 
 
 ## Notebook Workflow
 
-1. `notebooks/1_stabiltiy_analysis.ipynb`: checks whether `"stock market"` is a stable Google Trends anchor.
+1. `notebooks/1_stability_analysis.ipynb`: checks whether `"stock market"` is a stable Google Trends anchor.
 2. `notebooks/2_preprocessing_data.ipynb`: filters and prepares the keyword panel.
 3. `notebooks/3_pca_analysis.ipynb`: estimates PCA factors from the filtered keyword panel.
 4. `notebooks/4_predictive_analysis.ipynb`: tests predictive relationships with sector ETF returns.
