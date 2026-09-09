@@ -2,7 +2,7 @@
 
 This project studies whether Google Trends search-attention factors help explain or predict GICS sector returns. The workflow builds a cleaned Google Trends keyword panel, extracts principal components, and evaluates their relationship to sector ETF returns.
 
-This repository accompanies the SSRN preprint **Googling the Market: Latent Attention Factors and Sector-Level Equity Return Predictability**.
+**Paper:** [Googling the Market: Latent Attention factors and Sector-Level Equity Return Predictability] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6971058)
 
 ## Project Summary
 
@@ -14,7 +14,7 @@ Investor attention is difficult to observe directly, but search behavior offers 
 - The first principal component explains roughly 56% of keyword-panel variance, while the first 5 and 10 PCs explain about 81% and 88%, respectively.
 - Granger-style diagnostics identify several sector/PC relationships at the 5% level, especially for Consumer Discretionary, Communication Services, Technology, Energy excess returns, and related sector series.
 - Out-of-sample return forecasts are modest overall, with average OOS R2 generally close to zero or negative across model classes.
-- Portfolio-style tests show stronger performance for some one-month horizon strategies, but these should be interpreted as empirical diagnostics rather than live trading recommendations.
+- A Top-3 sector rotation strategy based on predicted excess returns achieved a 1.47 Sharpe ratio over the out-of-sample period, compared with 0.85 for SPY and 0.83 for a one-month momentum benchmark. These backtest results should be interpreted as evidence of cross-sectional ranking ability rather than as estimates of live trading performance.
 
 ## Repository Structure
 
