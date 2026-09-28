@@ -6,7 +6,7 @@ This project studies whether Google Trends search-attention factors help explain
 
 ## Project Summary
 
-Investor attention is difficult to observe directly, but search behavior offers a high-frequency proxy for what market participants are watching. This project uses Google Trends keyword interest data to build latent attention factors, then tests whether those factors are related to sector-level equity return predictability. The empirical workflow filters a broad keyword universe, extracts principal components from the cleaned search panel, and evaluates in-sample, out-of-sample, directional, and portfolio-style evidence using GICS sector ETF returns.
+This project uses Google Trends keyword interest data to build latent attention factors, then tests whether those factors are related to sector-level equity return predictability. The empirical workflow filters a broad keyword universe, extracts principal components from the cleaned search panel, and evaluates in-sample, out-of-sample, directional, and portfolio-style evidence using GICS sector ETF returns.
 
 ## Headline Results
 
